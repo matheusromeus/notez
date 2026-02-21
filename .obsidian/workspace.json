@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "budgeting.md",
+                "file": "commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "budgeting"
+              "title": "commands"
             }
           }
         ]
@@ -200,12 +200,16 @@
   },
   "active": "41eef58a9540f726",
   "lastOpenFiles": [
+    "Designing Data Intensive Applications.md",
+    "Heritage E-Fax.md",
+    "Teric OS.md",
+    "code with CTO.md",
+    "budgeting.md",
     "BMB.md",
     "commands.md",
     "Roam.md",
     "resume.md",
     "_ mind of mine..md",
-    "Teric OS.md",
     "code.md",
     "TODO.md",
     "track.md",
@@ -222,10 +226,6 @@
     "Apple Notes/product engineer.md",
     "Apple Notes/shopping list.md",
     "Apple Notes/react query.md",
-    "Apple Notes/rahmath beef biriyani.md",
-    "Apple Notes/our first valentines day together.md",
-    "Apple Notes/1.Primary source texts — Original works in philosophy, science, literature….md",
-    "code with CTO.md",
     "Attachments/New Note.jpeg",
     "Attachments/IMG_2429.png",
     "Attachments/IMG_3704.png",
