@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commands.md",
+                "file": "budgeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commands"
+              "title": "budgeting"
             }
           }
         ]
@@ -200,15 +200,15 @@
   },
   "active": "41eef58a9540f726",
   "lastOpenFiles": [
+    "BMB.md",
+    "commands.md",
     "Roam.md",
     "resume.md",
-    "BMB.md",
     "_ mind of mine..md",
     "Teric OS.md",
     "code.md",
     "TODO.md",
     "track.md",
-    "commands.md",
     "Apple Notes/routine.md",
     "Apple Notes/Tericsoft/pomodoro.md",
     "Apple Notes/Tericsoft/gst.md",

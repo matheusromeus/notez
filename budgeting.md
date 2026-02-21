@@ -10,7 +10,6 @@ parents
 - rent pondy - 16k
 - wifi - 800
 
-
 office commute - 2k
 
 debt
