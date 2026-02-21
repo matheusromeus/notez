@@ -1,0 +1,1 @@
+need to have bigger things that you care about so you stop being so damn sensitive about small things.

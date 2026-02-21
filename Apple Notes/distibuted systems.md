@@ -1,0 +1,6 @@
+- consists of nodes, trying to achieve a task together. nodes can be anything. and they are connected via network.
+- every distributed system is also concurrent
+- some systems are inherently distributed. like messaging via your cellphone
+- reliability, performance
+- latency - time until message arrives
+- bandwidth - data volume per unit time

@@ -1,0 +1,1 @@
+# i need conviction. i need to make more decisions. and stick to it. i need to decide what i want, go after it and get it. you should stop gaining passive knowledge and achieving goals passively. write that shit down. let that be your prayer. and do the actual hard work. and cross it of

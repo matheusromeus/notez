@@ -1,0 +1,13 @@
+- ncdu
+- df, du, duf
+- ripgrep
+- zoxide, zi
+- exa
+- glances
+- termshark
+- systemd-analyze blame
+- lazydocker
+- shred
+- taskwarrior
+- asciinema
+- fabric

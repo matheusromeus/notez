@@ -1,0 +1,1 @@
+this movie is made by a movie lover. someone who has put thought into the experience of the filmgoers. someone with a lot of pop culture knowledge. movies like these just elevate the standard of content altogether. movies like these are why ai generated slop and user made alike would never make it.

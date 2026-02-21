@@ -1,0 +1,4 @@
+- be less emotionally invested
+- have a fun idea stash
+- she needs to think about you more than you think about her
+- put her in her place, they know they have done disrespectful shit. they fucking know it. tell them what you like, tell them your values.

@@ -1,0 +1,1 @@
+i can never love you fully. because you deserve it. you deserve every fucking inch of my love. but that would mean giving myself to you.

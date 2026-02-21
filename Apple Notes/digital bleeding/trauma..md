@@ -1,0 +1,3 @@
+you still are scared. the kid in you is still scared. of everything that can go wrong. overanalysing everything, reading people, were all tools you nurtured to not get hurt. you will only be free, you will only become the man you were to be when you lose that fear.
+
+you still have relationship trauma in you. at least i think? that is making you not fully love anything or anyone. you know everything may leave or get destroyed in moments. you are afraid to dream. you hate to feel. just because you know how fleeting everything is. and you are tired of giving them value.

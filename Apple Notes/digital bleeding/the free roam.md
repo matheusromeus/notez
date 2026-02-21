@@ -1,0 +1,5 @@
+- run your own and strange experiments on the world
+- make your own decisions
+- create outcomes and be responsible for outcomes
+- staying on top of jobs for which there aren't even mainstream jobs yet
+- dont stop at the local maxima

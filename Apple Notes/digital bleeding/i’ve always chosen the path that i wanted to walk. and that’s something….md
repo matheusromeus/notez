@@ -1,0 +1,1 @@
+i’ve always chosen the path that i wanted to walk. and that’s something i am proud of myself.

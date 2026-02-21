@@ -1,0 +1,1 @@
+# life is coming from you. not at you. if it ain't in you already, then no amount of books are gonna help you. when you really understand a subject, it could be fashion or coding, you understand that it is never about them. there is fundamentally something else which makes it all work.

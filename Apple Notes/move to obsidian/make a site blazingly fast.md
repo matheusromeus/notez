@@ -1,0 +1,9 @@
+- server rendered html
+- prefetching html
+- pushstate to push the fetched html and replace the shell that needs to be removed
+- CDN caching
+- caching it in browser using service worker
+- preloading assets, fonts
+- critical css
+- mind the LCP
+- fixed size images

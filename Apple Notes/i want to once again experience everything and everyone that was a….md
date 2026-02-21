@@ -1,0 +1,1 @@
+# i want to once again experience everything and everyone that was a part of my life before i tear them out of my mind.

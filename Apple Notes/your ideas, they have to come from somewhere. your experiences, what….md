@@ -1,0 +1,15 @@
+- your ideas, they have to come from somewhere. your experiences, what you read, your prejudices, the ideas you take in from the outside world.
+- you are what you consume.
+- reading widely and uniquely.
+- comes back to going on your own journey
+- consuming stuff like how gym goers exercise. most of the gains happen not when you're working out, but when you're resting
+- live first, create after.
+- the basics or fundamentals of all the fields are the same. across all disciplines. but now with the coming up of multi faceted people, we are applying concepts from one field to another. and this is like an endless permutation and combination game. like chess. it's wide open. 
+- eye for detail
+- you could just go out for coffee but get brilliant details or that could be your next subject. but to be able to do that, you need to appreciate stuff more and enjoy moments.
+- saying yes to more experiences
+- how do people have "lore". that backstory of that dangerous CEO.
+- start creation.
+- bringing your own touch to an original is also being creative
+- combining what you are passionate about.
+- You are the niche. go deep down that rabbit-hole.

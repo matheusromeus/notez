@@ -1,0 +1,1 @@
+# everything that is happening currently, whatever big problems or issues the current generation is facing, is not unique to this generation. the same or similar problems have existed throughout history. and why do we still make the same mistakes?

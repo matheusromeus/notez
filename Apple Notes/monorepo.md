@@ -1,0 +1,5 @@
+- [ ] make dedicated packages for all the configs, shared configs
+- [ ] pnpm workspaces >>
+- [ ] turborepo or nx to handle caching
+- [ ] namespaces
+- [ ] path aliases

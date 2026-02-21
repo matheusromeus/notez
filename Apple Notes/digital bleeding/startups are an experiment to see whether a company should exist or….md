@@ -1,0 +1,1 @@
+# startups are an experiment to see whether a company should exist or not

@@ -1,0 +1,1 @@
+ctc, placement, fees,

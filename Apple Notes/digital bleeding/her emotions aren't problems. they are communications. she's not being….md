@@ -1,0 +1,6 @@
+- [ ] her emotions aren't problems. they are communications. she's not being dramatic, she's expressing this shit that usually we ignore?
+- [ ] she don't want you to fix their feelings, they want you to stay present through them; hold space, not solutions. you are not a mechanic for their mood swings
+- [ ] masculinity thrives in direction and clarity, while her feminine energy thrives in emotion and connection. Like Maps + Spotify for a road trip.
+- [ ] the more i understand her emotionally the more she trusts my leadership, not because you control her, but because you stay grounded while she's able to feel deeply. strength isn't force, it's presence
+- [ ] be honest and transparent about what you are feeling and what you are going to do about that keeps you grounded
+- [ ] don't battle feminine emotion, you balance with masculine clarity

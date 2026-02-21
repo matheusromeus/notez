@@ -1,0 +1,1 @@
+i wanna take time. i don't wanna put you on a pedestal. i wanna get to know you more. when i am thinking about the future, i am not getting to know you or experience all of this now.

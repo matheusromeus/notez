@@ -1,0 +1,1 @@
+remember siddhu's laugh. remember him singing. remember sydney congratulating me. never have i ever felt others being genuinely happy for me. rn even though my mind is not allowing it. i am on top of the world.

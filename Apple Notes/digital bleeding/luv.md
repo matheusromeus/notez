@@ -1,0 +1,1 @@
+all i've ever wanted was love. until i couldn't receive it. i was unable to receive it. then i started giving it, and somehow that grew the capacity of my own heart and i could receive more.

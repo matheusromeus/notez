@@ -1,0 +1,2 @@
+- markdown files documenting everything
+- document the already implemented features so that new implementations don't break anything.

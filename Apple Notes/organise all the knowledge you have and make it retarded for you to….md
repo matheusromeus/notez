@@ -1,0 +1,1 @@
+# organise all the knowledge you have and make it retarded for you to follow

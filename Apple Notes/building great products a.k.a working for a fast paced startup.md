@@ -1,0 +1,15 @@
+- small teams. they pick the goals, roadmap and should have sufficient autonomy, what features and talk to users
+- high bar for hiring
+- trust between team members
+- work in public, open discussions, document everything you work on
+- An accurate ICP (ideal customer profile) will define not just which customers you target, but *every* *aspect* of your product and go-to-market strategy.
+- map everything your user would want and then prioritise accordingly
+- landing page is your first impression
+ - “You cannot validate an idea. It doesn’t exist, you have to build the thing. The market will validate it.”
+- always be shipping
+- have a design system
+- features flags
+- the best type of communication is a PR
+- use your own product
+- Great product builders are always [prototyping and experimenting](https://newsletter.posthog.com/i/141291244/always-prototyping-and-experimenting). This means they need to be comfortable building MVPs and proofs of concept, shipping unpolished work, getting feedback, and pivoting when things aren’t working. It also means having all the skills to go from zero to built, everything from infrastructure to design.
+- a/b testing

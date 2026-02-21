@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "2e830b23efee85da",
+    "type": "split",
+    "children": [
+      {
+        "id": "84ac14b7420d00ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "41eef58a9540f726",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "431ef446e32d6170",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c74d1d891279b6e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5cac1078f54ee69c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "d5a07100a9abc223",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "82fd0968f90f9527",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "848346dc9981b075",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f360d8ec4630a4b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b54a188b0f7dcfc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TODO.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for TODO"
+            }
+          },
+          {
+            "id": "778c34a0e140b0c8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TODO.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from TODO"
+            }
+          },
+          {
+            "id": "cb13ca7e104319a2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9080f961ca5de1bc",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "06c50ebec892a5d2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TODO.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of TODO"
+            }
+          },
+          {
+            "id": "177b52f7fe957982",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "publish:Publish changes...": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false
+    }
+  },
+  "active": "41eef58a9540f726",
+  "lastOpenFiles": [
+    "track.md",
+    "TODO.md",
+    "Apple Notes/routine.md",
+    "Apple Notes/Tericsoft/pomodoro.md",
+    "Apple Notes/Tericsoft/gst.md",
+    "Apple Notes/Tericsoft/nix.md",
+    "Apple Notes/Tericsoft/Heritage.md",
+    "Apple Notes/Tericsoft/BMB leftover.md",
+    "Apple Notes/practical ux at a fast paced startup.md",
+    "Apple Notes/pololu robotics, Adafruit, sparkfun.md",
+    "Apple Notes/Physics defines what’s possible..md",
+    "Apple Notes/programming is art.md",
+    "Apple Notes/product engineer.md",
+    "Apple Notes/shopping list.md",
+    "Apple Notes/react query.md",
+    "Apple Notes/rahmath beef biriyani.md",
+    "Apple Notes/our first valentines day together.md",
+    "Apple Notes/1.Primary source texts — Original works in philosophy, science, literature….md",
+    "code with CTO.md",
+    "Designing Data Intensive Applications.md",
+    "commands.md",
+    "resume.md",
+    "202602202326.md",
+    "202602202325.md",
+    "phoenix.md",
+    "Apple Notes/are you obsessed with life -michael morrone.md",
+    "Attachments/New Note.jpeg",
+    "Attachments/IMG_2429.png",
+    "Attachments/IMG_3704.png",
+    "Attachments/event capturing.m4a",
+    "Attachments/IMG_1286.png",
+    "Apple Notes/New Folder",
+    "Apple Notes/move to obsidian",
+    "Apple Notes/lent",
+    "Apple Notes/prayers",
+    "Apple Notes/software engineering",
+    "Apple Notes/Tericsoft",
+    "Apple Notes/recipes",
+    "Apple Notes/digital bleeding",
+    "Apple Notes"
+  ]
+}

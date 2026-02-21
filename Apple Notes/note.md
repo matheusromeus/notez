@@ -1,0 +1,1 @@
+Mimicking real world, critical thinking, understanding the big picture, a grasp of knowledge, area agnostic are some very important things. Understanding oneself, reflection, understanding humans, which in turn create empathy and social responsibility these are all points that will be very important in the future. we all have to adopt a designer mentality.

@@ -1,0 +1,1 @@
+# go in phases. go deep without any distraction. no fomo.

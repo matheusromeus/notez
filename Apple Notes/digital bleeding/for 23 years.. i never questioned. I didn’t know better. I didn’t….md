@@ -1,0 +1,1 @@
+# for 23 years.. i never questioned. I didn’t know better. I didn’t know what to do. I don’t, now too.. but i know what I don’t want. And for that, I need to start questioning. I need to find a HOW and put all my energy into it.

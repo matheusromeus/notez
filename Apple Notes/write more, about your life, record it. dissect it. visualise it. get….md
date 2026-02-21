@@ -1,0 +1,1 @@
+# write more, about your life, record it. dissect it. visualise it. get it.

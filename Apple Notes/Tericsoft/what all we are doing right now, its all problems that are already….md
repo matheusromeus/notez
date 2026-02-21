@@ -1,0 +1,1 @@
+# what all we are doing right now, its all problems that are already solved. it was only a problem of reach of information. so you should not be afraid of ai.

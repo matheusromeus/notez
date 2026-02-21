@@ -1,0 +1,9 @@
+- take ownership of problems
+- no complacency (waiting to be told the next step)
+- don't waste time on the wrong problem
+- find push ups in work and do it, so that it becomes easier
+- keep a stack rank of the things you want to get done. for you and for the team.
+- saw sharpening 🪓, secondary productivity
+- teammates 1v1s. discuss, and ask.
+- do i have things to take somewhere else or be independent
+- playing 4d chess. having an overall view on everything.

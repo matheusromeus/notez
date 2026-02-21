@@ -1,0 +1,1 @@
+how do i know if i'm sore or is it just my mind? is it okay for me to go 6 days a week?

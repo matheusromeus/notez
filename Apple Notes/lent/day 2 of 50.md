@@ -1,0 +1,1 @@
+its just been a couple of days, with mom's injuries, dad's disease and this feeling of time running out is just uneasy. i want them to stay healthy until i can give them the finer things in life. and i have to take things into my hands.

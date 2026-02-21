@@ -1,0 +1,1 @@
+live raw. embrace the unknown. be less scared. build the foundational base that you have been avoiding.

@@ -1,0 +1,1 @@
+see people as experiences. not possessions. do not take other people for granted. doesn't mean they have to be in our life forever.

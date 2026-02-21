@@ -1,0 +1,1 @@
+movies like donnie darko doesn’t necessarily have a clear meaning or a message. they’re just mere vessels of conveying a number of themes, emotions and experiences. cinema is an art of communication.

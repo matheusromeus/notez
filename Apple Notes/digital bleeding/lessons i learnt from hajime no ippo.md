@@ -1,0 +1,6 @@
+- how many times you get hit, you’ve GOT to get back up
+- core, abs, back and a lot of running.
+- elbows tight and fists eye level
+- step in deep and twist the hip
+- right timing and the skill to pinpoint your enemy’s weaknesses 
+- if you want lesson on self discipline, ep 8, 16:50

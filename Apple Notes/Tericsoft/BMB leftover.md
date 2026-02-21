@@ -1,0 +1,5 @@
+- [ ] Experiment footer design
+- [ ] Not venue photo, make it logo
+- [ ] Input boxes -> regexes and validation
+- [ ] City + postal code comparing only valid ones
+- [ ] we are not storing amenities everywhere

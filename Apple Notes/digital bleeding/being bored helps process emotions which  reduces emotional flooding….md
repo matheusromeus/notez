@@ -1,0 +1,1 @@
+being bored helps process emotions which  reduces emotional flooding at night

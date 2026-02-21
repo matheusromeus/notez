@@ -1,0 +1,1 @@
+its hard to be a beginner nowadays. and it will become harder as each day passes by. we are surrounded by numerous experts in each and every niche and the risk of falling behind is too much. people don't encourage experimenting or trying out as a beginner or a safe space to fail. this is going to create a lot of one dimensional robots. and the humans will prevail.

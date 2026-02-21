@@ -1,0 +1,1 @@
+gone are the days when business was about trust. now its all about

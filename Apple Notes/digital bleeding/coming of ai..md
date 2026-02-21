@@ -1,0 +1,5 @@
+with the imminent takeover of ai, i realise more and more everyday, the importance of being a multi dimensional person. to grow your interests and branch out. this might be what one may term as being a 'generalist'. but that's such a hollow word. i would call it being human. to go back to your roots, how you became you. to accepting your flaws and trying to become a better version of you. you are the niche. you are the only unique thing in the world. there's none like you. take advantage of it. go down the rabbit hole of your interests. brood in it. disappear in it. it doesn't have to make sense to you or anybody. see where it takes you. have an open mind, like a sponge. 
+
+it's important to do what you love. to have something to look forward to. however minor it is. you might feel like it's a waste of time. but trust me. it isn't. your vices do serve a purpose in your life.
+
+life is a long game. its a marathon.

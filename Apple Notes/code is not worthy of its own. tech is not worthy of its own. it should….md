@@ -1,0 +1,1 @@
+# code is not worthy of its own. tech is not worthy of its own. it should provide some value. then it becomes valuable.

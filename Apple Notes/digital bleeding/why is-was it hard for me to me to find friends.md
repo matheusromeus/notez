@@ -1,0 +1,3 @@
+because unconsciously i wasnt looking for any friends. i never needed friends. the comfort of being a lone wolf had completely engulfed me. for me, people always have been to serve a purpose for me. use, throw. if you are not useful for me, then i won't interact with you. ive hated people for the longest time in my life. this is why i don't wanna be famous or liked by everyone. because i don't even know if i like them. 
+
+how good were your intentions? when was the last time you did something for the love of it?

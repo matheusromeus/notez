@@ -1,0 +1,1 @@
+# There is no victory, there is no defeat. It’s all perspective.

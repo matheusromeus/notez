@@ -1,0 +1,1 @@
+if everybody can create value. then where would the next valuable stuff come from?

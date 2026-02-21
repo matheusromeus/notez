@@ -1,0 +1,1 @@
+you only loved me. you only wanted whats best for me. you only took care of me. and i took advantage of that. i am sorry.

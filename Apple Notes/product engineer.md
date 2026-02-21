@@ -1,0 +1,5 @@
+- Ship features that users care about, wherever they are on the stack. Ship rapidly and iterate.
+- Develop opinions, be able to communicate them, and turn them into features. Be able to explain why a feature matters to customers as well as its importance in the competitive landscape.
+- Create prototypes and test them with users. Run experiments and understand their results. Be able to design for yourself and use design systems.
+- Talk with customers, analyze data, and be aware of the competitive landscape to understand what to build.
+- Use tools that automate non-product work like infrastructure, integration, deployment, and testing.

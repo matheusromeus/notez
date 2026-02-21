@@ -1,0 +1,7 @@
+- client hits server with login creds
+- if validated, then the server sends an access token and a refresh token.
+- access token is sent back on every subsequent requests
+- but refresh token is only sent at a certain endpoint (just a security feature)
+- when access token expires, the server sends back a 401 unauthorised and accesstokenexpired error.
+- then, we hit the /refresh endpoint with the refresh token and new access token is sent back
+- after many days, when refresh token is expired just like the AT, the user has to sign in again

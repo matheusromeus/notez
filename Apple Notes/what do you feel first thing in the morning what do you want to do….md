@@ -1,0 +1,2 @@
+- i want to know if i have missed anything important, calls or messages. normally it's nothing.
+- and i am very low on motivation. unlike night time, maybe it's less cortisol.

@@ -1,0 +1,1 @@
+I'm watching this girl and she's burning with passion. The way her body moves. Her eyes blaze with the love for her art. Sometimes it's scary. Intimidating. But that's how it should be. She gets in that zone. I'm watching a master at work.
