@@ -6,7 +6,6 @@
 - [ ] add Heritage Tickets
 - [ ] sreenivasa tickets resolve
 - [ ] ideate on a personal internal OS [[Teric OS]]
-- [ ] integrate control plane fully
 - [ ] look into spotify backstage
 - [ ] from 23rd feb, heritage monorepo (with common functions for db access)
 - [ ] watch founders note
@@ -14,7 +13,6 @@
 - [ ] on 25th Feb morning 9 am, run the cron job manually
 - [ ] check gemini chat for okr
 ## personal
-
 #### now
 #### later
 - [ ] check the paper notebook

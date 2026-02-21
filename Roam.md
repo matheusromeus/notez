@@ -7,7 +7,3 @@ command shift c to copy as a reference
 or ctrl shift E => embed to get the children too
 
 hierarchy
-
-
-
-

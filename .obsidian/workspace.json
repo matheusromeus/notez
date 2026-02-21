@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "commands.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "commands"
             }
           }
         ]
@@ -200,8 +200,15 @@
   },
   "active": "41eef58a9540f726",
   "lastOpenFiles": [
-    "track.md",
+    "Roam.md",
+    "resume.md",
+    "BMB.md",
+    "_ mind of mine..md",
+    "Teric OS.md",
+    "code.md",
     "TODO.md",
+    "track.md",
+    "commands.md",
     "Apple Notes/routine.md",
     "Apple Notes/Tericsoft/pomodoro.md",
     "Apple Notes/Tericsoft/gst.md",
@@ -219,13 +226,6 @@
     "Apple Notes/our first valentines day together.md",
     "Apple Notes/1.Primary source texts — Original works in philosophy, science, literature….md",
     "code with CTO.md",
-    "Designing Data Intensive Applications.md",
-    "commands.md",
-    "resume.md",
-    "202602202326.md",
-    "202602202325.md",
-    "phoenix.md",
-    "Apple Notes/are you obsessed with life -michael morrone.md",
     "Attachments/New Note.jpeg",
     "Attachments/IMG_2429.png",
     "Attachments/IMG_3704.png",

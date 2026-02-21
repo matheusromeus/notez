@@ -11,7 +11,6 @@ https://teric-okr-dashboard.fly.dev/?member=&dept=Team+Backend+OKR+2026
 login with github
 but PMs and other teams won't have it so do we add multiple login details? or just outlook ? does this matter in which data we will be able to pull?
 
-
 Role-based access control (RBAC)
 Central auth system (OIDC, OAuth2)
 
