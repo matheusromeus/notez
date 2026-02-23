@@ -9,6 +9,7 @@
 - [ ] look into spotify backstage
 - [ ] from 23rd feb, heritage monorepo (with common functions for db access)
 - [ ] watch founders note
+- [ ] check the roam pages dinesh working on endpoint
 - [ ] read through the payment service in BMB
 - [ ] on 25th Feb morning 9 am, run the cron job manually
 - [ ] check gemini chat for okr
