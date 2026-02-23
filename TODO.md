@@ -3,8 +3,8 @@
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
-- [ ] add BMB tickets
-- [ ] add Heritage Tickets
+- [ ] add BMB tickets - call we had for one hour has not been recorded in the allocation
+- [ ] add Heritage Tickets - the already done tickets have not been recorded, should we add date?
 - [ ] sreenivasa tickets resolve
 - [ ] ideate on a personal internal OS [[Teric OS]]
 - [ ] look into spotify backstage

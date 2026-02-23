@@ -48,3 +48,17 @@ standard prompt.
 > implement it all. when you’re done with a task or phase, mark it as completed in the plan document. do not stop until all tasks and phases are completed. do not add unnecessary comments or jsdocs, do not use any or unknown types. continuously run typecheck to make sure you’re not introducing new issues.
 
 
+If reverted
+- _“I reverted everything. Now all I want is to make the list view more minimal — nothing else.”_
+
+Claude will sometimes propose solutions that are technically correct but wrong for the project. Maybe the approach is over-engineered, or it changes a public API signature that other parts of the system depend on, or it picks a more complex option when a simpler one would do. I have context about the broader system, the product direction, and the engineering culture that Claude doesn’t.
+
+
+**Cherry-picking from proposals:** When Claude identifies multiple issues, I go through them one by one: _“for the first one, just use Promise.all, don’t make it overly complicated; for the third one, extract it into a separate function for readability; ignore the fourth and fifth ones, they’re not worth the complexity.”_ I’m making item-level decisions based on my knowledge of what matters right now.
+
+**Trimming scope:** When the plan includes nice-to-haves, I actively cut them. _“remove the download feature from the plan, I don’t want to implement this now.”_ This prevents scope creep.
+
+**Protecting existing interfaces:** I set hard constraints when I know something shouldn’t change: _“the signatures of these three functions should not change, the caller should adapt, not the library.”_
+
+**Overriding technical choices:** Sometimes I have a specific preference Claude wouldn’t know about: _“use this model instead of that one”_ or _“use this library’s built-in method instead of writing a custom one.”_ Fast, direct overrides.
+
