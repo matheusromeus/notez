@@ -2,6 +2,7 @@
 #### now
 #### later (specify to when)
 - [ ] add okr initiatives
+	- [ ] check gemini chat for okr
 - [ ] add BMB tickets
 - [ ] add Heritage Tickets
 - [ ] sreenivasa tickets resolve
@@ -12,11 +13,11 @@
 - [ ] check the roam pages dinesh working on endpoint
 - [ ] read through the payment service in BMB
 - [ ] on 25th Feb morning 9 am, run the cron job manually
-- [ ] check gemini chat for okr
 ## personal
 #### now
 #### later
 - [ ] check the paper notebook
+- [ ] look into creating your own PR bot
 - [ ] try time blocking
 - [ ] read Obsidian Help
 - [ ] look into the OKR notes (different vault - notes)
