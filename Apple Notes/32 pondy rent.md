@@ -7,3 +7,6 @@ education loan 15
 slice 8
 credit card 30
 credit card 10
+
+
+3000 - fridge
