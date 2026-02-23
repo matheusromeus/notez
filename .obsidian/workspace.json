@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "commands.md",
+                "file": "Heritage E-Fax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "commands"
+              "title": "Heritage E-Fax"
             }
           }
         ]
@@ -200,18 +200,18 @@
   },
   "active": "41eef58a9540f726",
   "lastOpenFiles": [
+    "TODO.md",
+    "commands.md",
     "Designing Data Intensive Applications.md",
     "Heritage E-Fax.md",
     "Teric OS.md",
     "code with CTO.md",
     "budgeting.md",
     "BMB.md",
-    "commands.md",
     "Roam.md",
     "resume.md",
     "_ mind of mine..md",
     "code.md",
-    "TODO.md",
     "track.md",
     "Apple Notes/routine.md",
     "Apple Notes/Tericsoft/pomodoro.md",

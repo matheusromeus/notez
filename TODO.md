@@ -18,6 +18,5 @@
 - [ ] check the paper notebook
 - [ ] try time blocking
 - [ ] read Obsidian Help
-- [ ] call steve
 - [ ] look into the OKR notes (different vault - notes)
 - [ ] life audit check apple notes "routine"
