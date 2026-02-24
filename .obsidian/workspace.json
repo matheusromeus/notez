@@ -4,63 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "84ac14b7420d00ba",
+        "id": "b002d42b498c28d0",
         "type": "tabs",
         "children": [
           {
-            "id": "41eef58a9540f726",
+            "id": "bb64d771a07c3c28",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Apple Notes/32 pondy rent.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "32 pondy rent"
-            }
-          },
-          {
-            "id": "0c905821bbedd802",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "phoenix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "phoenix"
-            }
-          },
-          {
-            "id": "b40913e4b5172df0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "how to use claude code.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "how to use claude code"
-            }
-          },
-          {
-            "id": "920dbb4d813732a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "o.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "o"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -240,47 +194,47 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "41eef58a9540f726",
+  "active": "bb64d771a07c3c28",
   "lastOpenFiles": [
-    "TODO.md",
-    "o.md",
-    "how to use claude code.md",
-    "social network != attention media.md",
-    "phoenix.md",
-    "Teric OS.md",
-    "Heritage E-Fax.md",
-    "commands.md",
-    "Designing Data Intensive Applications.md",
-    "code with CTO.md",
-    "budgeting.md",
-    "BMB.md",
-    "Roam.md",
-    "resume.md",
-    "_ mind of mine..md",
-    "code.md",
-    "track.md",
-    "Apple Notes/routine.md",
-    "Apple Notes/Tericsoft/pomodoro.md",
-    "Apple Notes/Tericsoft/gst.md",
-    "Apple Notes/Tericsoft/nix.md",
-    "Apple Notes/Tericsoft/Heritage.md",
-    "Apple Notes/Tericsoft/BMB leftover.md",
-    "Apple Notes/practical ux at a fast paced startup.md",
-    "Apple Notes/pololu robotics, Adafruit, sparkfun.md",
-    "Apple Notes/Physics defines what’s possible..md",
+    "My Bible/-- Bible --.md",
+    "My Bible/01 The First Book of Moses Called GENESIS/The First Book of Moses Called GENESIS 1.md",
+    "My Bible/01 The First Book of Moses Called GENESIS/-- The First Book of Moses Called GENESIS --.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 22.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 21.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 20.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 19.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 18.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 17.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 16.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 15.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 14.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 13.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 12.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 11.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 10.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 9.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 8.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 7.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 6.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 5.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 4.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 3.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 2.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 1.md",
+    "My Bible/66 THE REVELATION of Jesus Christ/-- THE REVELATION of Jesus Christ --.md",
+    "My Bible/66 THE REVELATION of Jesus Christ",
+    "My Bible/65 The Epistle of JUDE",
+    "My Bible/64 The Third Epistle of JOHN",
+    "My Bible/63 The Second Epistle of JOHN",
+    "My Bible/62 The First Epistle of JOHN",
+    "My Bible/61 The Second Epistle of PETER",
+    "My Bible/60 The First Epistle of PETER",
+    "My Bible/59 The Epistle of JAMES",
+    "My Bible/58 The Epistle to the HEBREWS",
+    "My Bible/57 The Epistle of Paul the Apostle to PHILEMON",
     "Attachments/New Note.jpeg",
     "Attachments/IMG_2429.png",
     "Attachments/IMG_3704.png",
-    "Attachments/event capturing.m4a",
-    "Attachments/IMG_1286.png",
-    "Apple Notes/New Folder",
-    "Apple Notes/move to obsidian",
-    "Apple Notes/lent",
-    "Apple Notes/prayers",
-    "Apple Notes/software engineering",
-    "Apple Notes/Tericsoft",
-    "Apple Notes/recipes",
-    "Apple Notes/digital bleeding",
-    "Apple Notes"
+    "Attachments/IMG_1286.png"
   ]
 }

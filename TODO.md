@@ -1,5 +1,6 @@
 ## work
 #### now
+- [ ] phoenix checklist
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
