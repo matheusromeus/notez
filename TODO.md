@@ -8,7 +8,6 @@
 - [ ] check [[Heritage E-Fax]] todos
 - [ ] add Heritage Tickets - the already done tickets have not been recorded, should we add date?
 - [ ] sreenivasa tickets resolve
-- [ ] from 23rd feb, heritage monorepo (with common functions for db access)
 - [ ] watch founders note
 - [ ] check the roam pages dinesh working on endpoint
 - [ ] on 25th Feb morning 9 am, run the cron job manually
