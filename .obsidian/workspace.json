@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "phoenix.md",
+                "file": "how to use claude code.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "phoenix"
+              "title": "how to use claude code"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "bb64d771a07c3c28",
   "lastOpenFiles": [
-    "TODO.md",
     "phoenix.md",
+    "TODO.md",
     "My Bible/-- Bible --.md",
     "My Bible/01 The First Book of Moses Called GENESIS/The First Book of Moses Called GENESIS 1.md",
     "My Bible/01 The First Book of Moses Called GENESIS/-- The First Book of Moses Called GENESIS --.md",

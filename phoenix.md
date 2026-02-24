@@ -24,15 +24,3 @@ tables
 2. There was stale data in the tower breakdown modal screen, which caused to give incorrect values for vacant area which cascaded
 
 the values from frontend are taken without validation. there are no guardrails. 
-
---- 
-- [x] parking next escalation date is not changing in UI but correct value is taken
-- [x] next escalation date is not shown
-- [x] delete phoenix riverside mall and all the tenants linked to them
-- [x] address limit is now changed to 100 characters for Line 1 and Line 2
-
-apis for functionalities on control plane
-
-working on phoenix
-12:30pm
-
