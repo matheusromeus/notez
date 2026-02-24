@@ -5,6 +5,7 @@
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
 - [ ] add BMB tickets - call we had for one hour has not been recorded in the allocation
+- [ ] check [[Heritage E-Fax]] todos
 - [ ] add Heritage Tickets - the already done tickets have not been recorded, should we add date?
 - [ ] sreenivasa tickets resolve
 - [ ] from 23rd feb, heritage monorepo (with common functions for db access)
