@@ -11,10 +11,14 @@
             "id": "bb64d771a07c3c28",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "phoenix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "phoenix"
             }
           }
         ]
@@ -196,6 +200,8 @@
   },
   "active": "bb64d771a07c3c28",
   "lastOpenFiles": [
+    "TODO.md",
+    "phoenix.md",
     "My Bible/-- Bible --.md",
     "My Bible/01 The First Book of Moses Called GENESIS/The First Book of Moses Called GENESIS 1.md",
     "My Bible/01 The First Book of Moses Called GENESIS/-- The First Book of Moses Called GENESIS --.md",
@@ -220,8 +226,6 @@
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 4.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 3.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 2.md",
-    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 1.md",
-    "My Bible/66 THE REVELATION of Jesus Christ/-- THE REVELATION of Jesus Christ --.md",
     "My Bible/66 THE REVELATION of Jesus Christ",
     "My Bible/65 The Epistle of JUDE",
     "My Bible/64 The Third Epistle of JOHN",

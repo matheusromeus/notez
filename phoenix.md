@@ -25,10 +25,13 @@ tables
 
 the values from frontend are taken without validation. there are no guardrails. 
 
-
-
 --- 
-- are the invoices separated by lease/deed number?
-- parking next escalation date is not changing in UI but correct value is taken
-- next escalation date is not shown
-- delete phoenix riverside mall and all the tenants linked to them
+- [x] parking next escalation date is not changing in UI but correct value is taken
+- [ ] next escalation date is not shown
+- [x] delete phoenix riverside mall and all the tenants linked to them
+- [ ] address needs to be changed
+
+
+working on phoenix
+12:30pm
+
