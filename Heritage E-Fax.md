@@ -289,13 +289,14 @@ ai
 
 todos
 - [ ] sharepoint verification
+- [ ] not saving page count in fax_document
 - [ ] srfax verification
 - [ ] monorepo function deployment
 - [ ] email rnd
 - [ ] doc management
+- [ ] how will they be adding the provider key
 - [ ] we are not showing the final fax folder
 - [ ] is the data pipeline taking from the database? 
 	- [ ] community (SRFax)
 	- [ ] model
-
-{"summary": "The document is a new prescription summary dated 02/24/2026 for patient Bonita Gudgel (DOB 04/11/1942, MRN 719). The prescriber, Lisa Lehr NP, authorized a single 1 mL subcutaneous injection of CYANOCOBALAMIN (Vitamin B-12) 1,000 MCG/mL to be administered monthly, with no refills. The prescription is linked to diagnoses of Vitamin B12 deficiency (ICD-10 E538) and deficiency of other specified B-group vitamins.\nThe order was transmitted to Serviam Pharmacy in Council Bluffs, IA (NCPDP ID 1627186) and electronically signed at 07:47 on the same day.", "patient_name": "Bonita Gudgel", "document_type": "Physician Orders", "classification": "Physician Orders", "clinician_name": "Lisa Lehr NP", "encounter_type": "New Prescription", "key_highlights": ["New prescription for CYANOCOBALAMIN (VIT B-12) 1,000 MCG/ML injection solution", "Dosage: Inject 1 mL subcutaneously every month, one dose", "Prescriber: Lisa Lehr NP, NPI 1508465048, DEA ML8965545", "Patient: Bonita Gudgel, DOB 04/11/1942, MRN 719", "Diagnosis: Vitamin B12 deficiency (ICD-10 E538) and deficiency of other specified B group vitamins", "No refills authorized", "Pharmacy: Serviam Pharmacy, NCPDP ID 1627186, Council Bluffs, IA"], "date_of_service": "02/24/2026", "confidence_score": 96, "mrn_chart_number": "719", "received_date_time": "02/24/2026 11:04"}
+- [ ] now when i checked the database model is active is gemini but provider is active is groq
