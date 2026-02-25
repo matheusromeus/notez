@@ -292,3 +292,9 @@ todos
 - [ ] srfax verification
 - [ ] monorepo function deployment
 - [ ] email rnd
+- [ ] we are not showing the final fax folder
+- [ ] is the data pipeline taking from the database? 
+	- [ ] community (SRFax)
+	- [ ] model
+	- [ ] 
+- [ ] should keep the cost also part of the same table
