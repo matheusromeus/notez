@@ -7,3 +7,5 @@ whatsapp has a document with the latest call and what needs to be done.
 
 the online call we had for an hour is not added to the allocation
 
+
+- any restrictions on number of times the username can be changed?
