@@ -6,7 +6,6 @@
 - [ ] add BMB tickets
 - [ ] check [[Heritage E-Fax]] todos
 - [ ] add Heritage Tickets 
-- [ ] sreenivasa tickets resolve
 - [ ] check the roam pages dinesh working on endpoint
 - [ ] on 25th Feb morning 9 am, run the cron job manually
 ## personal

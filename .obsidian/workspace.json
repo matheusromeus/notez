@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "BMB.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "BMB"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "fault tolerance"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,11 +212,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "357687a5d67387e3",
+  "active": "849509632e79449e",
   "lastOpenFiles": [
+    "Heritage E-Fax.md",
+    "how to use claude code.md",
     "TODO.md",
     "fault tolerance.md",
-    "Heritage E-Fax.md",
     "o.md",
     "balance.md",
     "BMB.md",
@@ -225,7 +225,6 @@
     "Teric OS.md",
     "Daily Journal/2026-02-24.md",
     "Daily Journal/2026-02-08.md",
-    "how to use claude code.md",
     "phoenix.md",
     "My Bible/-- Bible --.md",
     "My Bible/01 The First Book of Moses Called GENESIS/The First Book of Moses Called GENESIS 1.md",
