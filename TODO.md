@@ -1,6 +1,5 @@
 ## work
 #### now
-- [ ] working on completing the frontend and backend of control plane
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr

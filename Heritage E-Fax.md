@@ -290,13 +290,12 @@ ai
 todos
 - [ ] sharepoint verification
 - [ ] not saving page count in fax_document
-- [ ] srfax verification
+		- [ ] have to send the pages along with the queue message
+- [x] srfax verification
 - [ ] monorepo function deployment
 - [ ] email rnd
 - [ ] doc management
 - [ ] how will they be adding the provider key
-- [ ] we are not showing the final fax folder
 - [ ] is the data pipeline taking from the database? 
 	- [ ] community (SRFax)
 	- [ ] model
-- [ ] now when i checked the database model is active is gemini but provider is active is groq
