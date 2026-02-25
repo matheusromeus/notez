@@ -4,11 +4,10 @@
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
-- [ ] add BMB tickets - call we had for one hour has not been recorded in the allocation
+- [ ] add BMB tickets
 - [ ] check [[Heritage E-Fax]] todos
-- [ ] add Heritage Tickets - the already done tickets have not been recorded, should we add date?
+- [ ] add Heritage Tickets 
 - [ ] sreenivasa tickets resolve
-- [ ] watch founders note
 - [ ] check the roam pages dinesh working on endpoint
 - [ ] on 25th Feb morning 9 am, run the cron job manually
 ## personal
@@ -20,6 +19,8 @@
 - [ ] look into creating your own PR bot
 - [ ] ideate on a personal internal OS [[Teric OS]]
 - [ ] try time blocking
+- [ ] set goals
+- [ ] watch founders note
 - [ ] read through the payment service in BMB
 - [ ] read Obsidian Help
 - [ ] look into the OKR notes (different vault - notes)
@@ -27,4 +28,3 @@
 
 
 ---
-planning and goal setting are very imp as an SE

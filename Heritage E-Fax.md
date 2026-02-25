@@ -291,4 +291,4 @@ todos
 - [ ] sharepoint verification
 - [ ] srfax verification
 - [ ] monorepo function deployment
-- [ ] 
+- [ ] email rnd
