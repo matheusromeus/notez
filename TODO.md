@@ -15,6 +15,7 @@
 #### now
 #### later
 - [ ] check the paper notebook
+- [ ] how can i start off where I left? with the least amount of work as possible
 - [ ] look into spotify backstage
 - [ ] look into creating your own PR bot
 - [ ] ideate on a personal internal OS [[Teric OS]]
@@ -23,3 +24,7 @@
 - [ ] read Obsidian Help
 - [ ] look into the OKR notes (different vault - notes)
 - [ ] life audit check apple notes "routine"
+
+
+---
+planning and goal setting are very imp as an SE

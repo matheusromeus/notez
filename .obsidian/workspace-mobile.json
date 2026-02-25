@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Teric OS.md",
+                "file": "budgeting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Teric OS"
+              "title": "budgeting"
             }
           }
         ]
@@ -157,6 +157,11 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "zk-prefixer:Create new unique note": false,
+      "publish:Publish changes...": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-importer:Open Importer": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -168,6 +173,7 @@
   },
   "active": "a2c5da9b8f1ec320",
   "lastOpenFiles": [
+    "Teric OS.md",
     "TODO.md",
     "scaling issues.md",
     "Some DB knowledge.md",
