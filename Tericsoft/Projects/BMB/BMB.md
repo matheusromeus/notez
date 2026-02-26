@@ -22,4 +22,4 @@ the online call we had for an hour is not added to the allocation
 - run the verification flow on the club portal
 - if rejected or accpeted, a notifcation has to be sent.
 - what if the promotion is accepted after the start date
-- 
+- what else needs to be added to the fan dashboard?
