@@ -300,3 +300,6 @@ todos
 	- [ ] community (SRFax)
 	- [ ] model
 - [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
+
+- dashboard to be complete
+- 
