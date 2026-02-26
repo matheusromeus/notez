@@ -299,3 +299,4 @@ todos
 - [ ] is the data pipeline taking from the database? 
 	- [ ] community (SRFax)
 	- [ ] model
+- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
