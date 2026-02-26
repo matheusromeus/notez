@@ -9,3 +9,6 @@ the online call we had for an hour is not added to the allocation
 
 
 - any restrictions on number of times the username can be changed?
+- login only through phone number? or both? then if they change the number then what to do? we need their actual number.
+- show the members in their public profile
+- is the band name coming correctly?
