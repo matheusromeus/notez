@@ -34,79 +34,9 @@
               "icon": "lucide-file",
               "title": "BMB"
             }
-          },
-          {
-            "id": "2cb5a0c25b0e720c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "claude.md file.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "claude.md file"
-            }
-          },
-          {
-            "id": "970c5b57f8499cb6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "solo fullstack apps.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "solo fullstack apps"
-            }
-          },
-          {
-            "id": "0111bb93ed47e119",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "design system.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "design system"
-            }
-          },
-          {
-            "id": "5b6e0ce4c7f1ba8d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heritage E-Fax"
-            }
-          },
-          {
-            "id": "357687a5d67387e3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "fault tolerance.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "fault tolerance"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -283,14 +213,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5b6e0ce4c7f1ba8d",
+  "active": "b39a6a84e78ead59",
   "lastOpenFiles": [
-    "Tericsoft/Projects/BMB/BMB.md",
-    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "atomic design.md",
-    "design system.md",
-    "solo fullstack apps.md",
     "claude.md file.md",
+    "solo fullstack apps.md",
+    "design system.md",
+    "fault tolerance.md",
+    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "Tericsoft/Projects/BMB/BMB.md",
+    "atomic design.md",
     "reserve now.md",
     "Tericsoft/Projects/BMB",
     "Tericsoft/Projects/Heritage E-Fax",
@@ -298,7 +229,6 @@
     "Tericsoft",
     "how to use claude code.md",
     "TODO.md",
-    "fault tolerance.md",
     "o.md",
     "balance.md",
     "goals.md",
