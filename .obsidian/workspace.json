@@ -35,8 +35,7 @@
               "title": "BMB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,14 +212,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b39a6a84e78ead59",
+  "active": "849509632e79449e",
   "lastOpenFiles": [
+    "Tericsoft/Projects/BMB/BMB.md",
     "claude.md file.md",
     "solo fullstack apps.md",
     "design system.md",
     "fault tolerance.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "Tericsoft/Projects/BMB/BMB.md",
     "atomic design.md",
     "reserve now.md",
     "Tericsoft/Projects/BMB",
