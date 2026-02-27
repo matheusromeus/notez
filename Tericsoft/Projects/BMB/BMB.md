@@ -17,7 +17,7 @@ To Discuss
 - [ ] can fan send a connection request to a club?
 - [ ] The first 15 bands to accept a public lead will use their credits to connect with the fan. needs more clarity
 - [ ] can club send a public inquiry to bands?
-- [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done?
+- [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done? Will the request itself be invalid? Will they have to send the request again?
 
 To Do
 - [ ] is the band name coming correctly? in profile and what i give in oboarding.
