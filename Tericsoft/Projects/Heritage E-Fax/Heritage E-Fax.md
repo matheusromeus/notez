@@ -293,13 +293,11 @@ todos
 		- [ ] have to send the pages along with the queue message
 - [ ] monorepo function deployment
 - [ ] email rnd
-- [ ] doc management
 - [ ] how will they be adding the provider key
 - [ ] is the data pipeline taking from the database? 
 	- [ ] community (SRFax)
 	- [ ] model
 - [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
-
 
 if any error on the LLM call put it in manual
 2 communitites where active at the same time.
@@ -307,3 +305,7 @@ wrong provider active at the time with the active model
 duplicate faxes have been removed now for testing
 right now ocr accuracy is taken from invocation_type classifciation
 summary is stored for dev purposes now. result_json wont have the summary in prod
+
+
+classsifcation accuraccy of LLM - how do we know that its correct
+total categories is not resolved yet
