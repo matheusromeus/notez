@@ -87,3 +87,10 @@ ESLint + TS = Enforcement Layer
 ---
 
 select our colors, fonts
+
+
+design system = **style guide** + **a component library** + **pattern library**.
+
+**Style guides** contain specific implementation guidelines, visual references, and [design principles](https://www.nngroup.com/videos/design-principles-101/) for creating interfaces or other design deliverables. The most-common style guides tend to focus on branding (colors, typography, trademarks, logos, and print media), but style guides also offer guidance on content (such as [tone of voice](https://www.nngroup.com/articles/tone-of-voice-dimensions/) and language recommendations) and visual- and interaction-design standards (also known as [front-end style guides](https://www.nngroup.com/articles/front-end-style-guides/)).
+
+while **pattern libraries** feature collections of UI-element groupings or layouts. like bridjr maybe

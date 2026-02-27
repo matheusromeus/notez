@@ -303,3 +303,6 @@ todos
 
 - dashboard to be complete
 - 
+
+
+if any error on the LLM call put it in manual

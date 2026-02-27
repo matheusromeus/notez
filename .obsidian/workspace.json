@@ -83,12 +83,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "atomic design.md",
+                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "atomic design"
+              "title": "Heritage E-Fax"
             }
           },
           {
@@ -285,8 +285,8 @@
   },
   "active": "5b6e0ce4c7f1ba8d",
   "lastOpenFiles": [
-    "design system.md",
     "atomic design.md",
+    "design system.md",
     "solo fullstack apps.md",
     "claude.md file.md",
     "Tericsoft/Projects/BMB/BMB.md",
