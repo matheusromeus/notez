@@ -36,6 +36,20 @@
             }
           },
           {
+            "id": "2cb5a0c25b0e720c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "claude.md file.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "claude.md file"
+            }
+          },
+          {
             "id": "357687a5d67387e3",
             "type": "leaf",
             "state": {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -227,11 +241,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b39a6a84e78ead59",
+  "active": "2cb5a0c25b0e720c",
   "lastOpenFiles": [
+    "Tericsoft/Projects/BMB/BMB.md",
+    "claude.md file.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "reserve now.md",
-    "Tericsoft/Projects/BMB/BMB.md",
     "Tericsoft/Projects/BMB",
     "Tericsoft/Projects/Heritage E-Fax",
     "Tericsoft/Projects",
@@ -258,7 +273,6 @@
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 16.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 15.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 14.md",
-    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 13.md",
     "My Bible/66 THE REVELATION of Jesus Christ",
     "My Bible/65 The Epistle of JUDE",
     "My Bible/64 The Third Epistle of JOHN",

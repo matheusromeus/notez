@@ -8,12 +8,18 @@ whatsapp has a document with the latest call and what needs to be done.
 the online call we had for an hour is not added to the allocation
 
 
+To Discuss
 - [ ] any restrictions on number of times the username can be changed?
 - [ ] login with SMS creds
 - [ ] login only through phone number? or both? then if they change the number then what to do? we need their actual number. and if they change their number or email and log out, then they won't be able to log in.
 - [ ] can they send verification only once in 'x' months?
 - [ ] is there an expiry for the verification request?
+- [ ] can fan send a connection request to a club?
+- [ ] The first 15 bands to accept a public lead will use their credits to connect with the fan. needs more clarity
+- [ ] can club send a public inquiry to bands?
+- [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done?
 
+To Do
 - [ ] is the band name coming correctly? in profile and what i give in oboarding.
 - [ ] margin from top header block
 - [ ] is the credit costs being taken from the database?
@@ -22,12 +28,7 @@ the online call we had for an hour is not added to the allocation
 - [ ] verification expires after year from acceptance
 - [ ] run the verification flow on the club portal
 - [ ] if rejected or accpeted, a notifcation has to be sent.
-- [ ] what if the promotion is accepted after the start date
-- [ ] what else needs to be added to the fan dashboard?
-- [ ] can fan send a connection request to a club?
-- [ ] The first 15 bands to accept a public lead will use their credits to connect with the fan. needs more clarity
-- [ ] can club send a public inquiry to bands?
-- [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done?
+- [ ] what if the promotion is accepted after the start date (edge case. start should be the next day. and once the day has passed, need a cron job to set the promotion request to expired)
 - [ ] liked bands and recommended bands need a differenciation in UI
 - [ ] Zoho invoice is not being created
 - [ ] resolution and upload limit for all photos
