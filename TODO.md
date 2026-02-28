@@ -3,6 +3,7 @@
 - [ ] complete BMB
 - [ ] complete Heritage ToDo
 - [ ] Then Start with ReserveNow
+- [ ] Phoenix just check
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
@@ -12,9 +13,9 @@
 - [ ] check the roam pages dinesh working on endpoint
 - [ ] on 25th Feb morning 9 am, run the cron job manually
 ## personal
-#### now
-#### later
+
 - [ ] check the paper notebook
+- [ ] do research on mba colleges
 - [ ] how can i start off where I left? with the least amount of work as possible
 - [ ] look into spotify backstage
 - [ ] look into creating your own PR bot
