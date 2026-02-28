@@ -22,18 +22,6 @@
             }
           },
           {
-            "id": "2e7231b28f160b76",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.4"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.4"
-            }
-          },
-          {
             "id": "b39a6a84e78ead59",
             "type": "leaf",
             "state": {
@@ -47,8 +35,7 @@
               "title": "BMB"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +92,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "848346dc9981b075",
@@ -225,9 +213,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2e7231b28f160b76",
+  "active": "849509632e79449e",
   "lastOpenFiles": [
     "Tericsoft/Projects/BMB/BMB.md",
+    "Self Hosting for Next Js.md",
     "claude.md file.md",
     "solo fullstack apps.md",
     "design system.md",
@@ -256,7 +245,6 @@
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 20.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 19.md",
     "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 18.md",
-    "My Bible/66 THE REVELATION of Jesus Christ/THE REVELATION of Jesus Christ 17.md",
     "My Bible/66 THE REVELATION of Jesus Christ",
     "My Bible/65 The Epistle of JUDE",
     "My Bible/64 The Third Epistle of JOHN",
