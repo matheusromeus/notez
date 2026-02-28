@@ -1,5 +1,8 @@
 ## work
 #### now
+- [ ] complete BMB
+- [ ] complete Heritage ToDo
+- [ ] Then Start with ReserveNow
 #### later (specify to when)
 - [ ] add okr initiatives
 	- [ ] check gemini chat for okr
