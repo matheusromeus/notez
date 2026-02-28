@@ -12,6 +12,7 @@ To Do
 - [ ] margin from top header block
 - [ ] get list of where all images are being uploaded and then set the rules accordingly
 - [ ] setup cron job (once a day) 0 3 * * * cd /path/to/BookMyBand-Admin-API && /usr/bin/env python -m app.workers.gig_cleanup_job >> /var/log/gig_cleanup.log 2>&1
+- [ ] make sure all the workers are hosted
 - [ ] verification expires after year from acceptance
 - [ ] run the verification flow on the club portal
 - [ ] if rejected or accpeted, a notifcation has to be sent.
@@ -21,12 +22,9 @@ To Do
 - [ ] resolution and upload limit for all photos
 
 
-- [x] any restrictions on number of times the username can be changed? -> No, only once it should be allowed to set  
 - [ ] login with SMS creds -> Yes need to provide, check with Sai for access  
-- [ ] login only through phone number? or both? then if they change the number then what to do? we need their actual number. and if they change their number or email and log out, then they won't be able to log in. -> phone number can't be changed  
 - [ ] can they send verification only once in 'x' months? -> nope  
-- [ ] is there an expiry for the verification request? -> nope  
-- [ ] can fan send a connection request to a club? -> nope  
+- [ ] a band can send a request to another band, same with clubs
 - [ ] The first 15 bands to accept a public lead will use their credits to connect with the fan. needs more clarity -> Yes, credits should be consumed  
 - [ ] can club send a public inquiry to bands? -> No, it needs to be private for now   
 - [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done? Will the request itself be invalid? Will they have to send the request again? -> Yes, they'll have to send again
