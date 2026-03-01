@@ -293,6 +293,8 @@ Check DLQ on monday.
 
 what is the manual folder path?
 final communities and folders for filters
+re-check all what we have checked off once more
+need to decide how to add guardrails for provider
 
 
 data-pipeline
@@ -327,8 +329,3 @@ control plane
 - [ ] add From Fax# / Remote ID
 - [ ] how will they be adding the provider key
 - [ ] naziya needs to send workflow_id
-
-
-
-
-now we have one important last part. we need to implement an email summary engine. we need to send the details of each fax as an email to a list of people. we will talk about what is inside the mail later. but in short, we are getting the summary from the ai-function and in the ai-subscriber-dev function, as a queue message. that summary has to be sent as an email. now we need to send the mail for every fax or every 'x' hours. that is already configured in the db in the Communities table. if every x hours, the email will have to be batched. but the issue is that we cannot store the summary in the db because of HIPAA compliance. write a detailed plan.md in the root plans/ folder about how to execute this. every fax will have a certain community_id and only those recipients of that community should receive the email. that is also in the database.  

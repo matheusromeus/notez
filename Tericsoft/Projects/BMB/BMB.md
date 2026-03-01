@@ -9,9 +9,9 @@ Ask Sahil
 - [ ] make sure all the workers are hosted
 - [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done? Will the request itself be invalid? Will they have to send the request again? -> Yes, they'll have to send again
 - [ ] in production, check if the upload is taking a lot of time, after the server location has been changed
+- [ ] does bands and clubs also need the liked/recommendations split?
 
 
-- [ ] liked bands and recommended bands need a differenciation in UI
 - [ ] Zoho invoice is not being created
-- [ ] resolution and upload limit for all photos
-	- [ ] get list of where all images are being uploaded and then set the rules accordingly
+
+{"zoho_invoice_error": "Failed to get/create contact: No access token in response", "zoho_invoice_error_time": "2026-02-17T11:56:45.054242"}
