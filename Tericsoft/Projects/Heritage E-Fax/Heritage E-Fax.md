@@ -308,16 +308,13 @@ summary is stored for dev purposes now. result_json wont have the summary in pro
 
 
 classsifcation accuraccy of LLM - how do we know that its correct
-total categories is not resolved yet
-
-pagination in document management
-
 email summary engine
+adding filter for community
 email frequency control
 multi community picking up
+update the final url in the data pipeline
 no horizontal scrolling for document management screen
 flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
-timezone should be UTC
 remove srfaxid and add From Fax# / Remote ID
 add more filters like in the super engineer screen
 Fix the workflow status, which is currently showing as zero. manual and success. and failed

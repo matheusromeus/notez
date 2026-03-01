@@ -12,3 +12,4 @@ why would i need a VLAN?
 
 ![[Pasted image 20260301030508.png]]
 
+zima os
