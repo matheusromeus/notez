@@ -292,24 +292,23 @@ ai
 Check DLQ on monday.
 
 what is the manual folder path?
-final communities and folders
+final communities and folders for filters
 
 
 data-pipeline
 - [x] not saving page count, remote id and callerid in fax_document
 	- [x] have to send the pages along with the queue message
 - [x] update the final url in the data pipeline
-- [ ] is the data pipeline taking from the database?
-	- [ ] community (SRFax)
+- [x] is the data pipeline taking from the database?
+	- [x] community (SRFax)
 - [x] updating workfow status to manual or success or failed
 	- classified -> success
 	- exception -> failed
 	- is_manual is True? -> manual
-- [ ] multi community picking up
+- [x] multi community picking up
 	- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
 - [ ] email summary engine
 	- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
-- [ ] email frequency control
 - [ ] add back the duplicate check for faxes
 - [ ] if any error on the LLM call put it in manual, update boolean too
 - [ ] monorepo function deployment
@@ -317,10 +316,19 @@ data-pipeline
 control plane
 - [x] no horizontal scrolling for document management screen
 - [x] add more filters like in the super engineer screen
-- [ ] adding filter for community
 - [ ] sharepoint verification
 - [x] Fix the workflow status, which is currently showing as zero. manual and success. and failed
 - [x] remove srfaxid
-- [ ] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
+- [x] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
+- [ ] on changing the flag, shouldn't the file be moved from one folder to the new one?
+- [ ] email frequency control
+	- [ ] per_fax
+	- [ ] value of 'x' hours
 - [ ] add From Fax# / Remote ID
 - [ ] how will they be adding the provider key
+- [ ] naziya needs to send workflow_id
+
+
+
+
+now we have one important last part. we need to implement an email summary engine. we need to send the details of each fax as an email to a list of people. we will talk about what is inside the mail later. but in short, we are getting the summary from the ai-function and in the ai-subscriber-dev function, as a queue message. that summary has to be sent as an email. now we need to send the mail for every fax or every 'x' hours. that is already configured in the db in the Communities table. if every x hours, the email will have to be batched. but the issue is that we cannot store the summary in the db because of HIPAA compliance. write a detailed plan.md in the root plans/ folder about how to execute this. every fax will have a certain community_id and only those recipients of that community should receive the email. that is also in the database.  
