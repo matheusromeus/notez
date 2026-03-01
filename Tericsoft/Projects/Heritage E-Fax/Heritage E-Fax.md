@@ -291,30 +291,35 @@ ai
 
 Check DLQ on monday.
 
+what is the manual folder path?
+final communities and folders
+
 
 data-pipeline
-- [x] not saving page count in fax_document
+- [x] not saving page count, remote id and callerid in fax_document
 	- [x] have to send the pages along with the queue message
 - [x] update the final url in the data pipeline
 - [ ] is the data pipeline taking from the database?
 	- [ ] community (SRFax)
-	- [ ] model
-- [ ] updating workfow status to manual or success or failed
+- [x] updating workfow status to manual or success or failed
+	- classified -> success
+	- exception -> failed
+	- is_manual is True? -> manual
 - [ ] multi community picking up
 	- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
 - [ ] email summary engine
-- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
-- [ ] add back the duplicate check for faxes
-- [ ] if any error on the LLM call put it in manual
-- [ ] monorepo function deployment
+	- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
 - [ ] email frequency control
+- [ ] add back the duplicate check for faxes
+- [ ] if any error on the LLM call put it in manual, update boolean too
+- [ ] monorepo function deployment
 
 control plane
 - [x] no horizontal scrolling for document management screen
 - [x] add more filters like in the super engineer screen
 - [ ] adding filter for community
 - [ ] sharepoint verification
-- [ ] Fix the workflow status, which is currently showing as zero. manual and success. and failed
+- [x] Fix the workflow status, which is currently showing as zero. manual and success. and failed
 - [x] remove srfaxid
 - [ ] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
 - [ ] add From Fax# / Remote ID
