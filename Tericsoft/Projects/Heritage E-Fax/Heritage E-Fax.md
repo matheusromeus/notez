@@ -288,34 +288,34 @@ ai
 
 
 # todos
-- [ ] sharepoint verification
-- [ ] not saving page count in fax_document
-		- [ ] have to send the pages along with the queue message
-- [ ] monorepo function deployment
-- [ ] email rnd
-- [ ] how will they be adding the provider key
-- [ ] is the data pipeline taking from the database? 
+
+Check DLQ on monday.
+
+
+data-pipeline
+- [x] not saving page count in fax_document
+	- [x] have to send the pages along with the queue message
+- [x] update the final url in the data pipeline
+- [ ] is the data pipeline taking from the database?
 	- [ ] community (SRFax)
 	- [ ] model
-- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
+- [ ] updating workfow status to manual or success or failed
+- [ ] multi community picking up
+	- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
+- [ ] email summary engine
+- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
+- [ ] add back the duplicate check for faxes
+- [ ] if any error on the LLM call put it in manual
+- [ ] monorepo function deployment
+- [ ] email frequency control
 
-if any error on the LLM call put it in manual
-2 communitites where active at the same time.
-wrong provider active at the time with the active model
-duplicate faxes have been removed now for testing
-right now ocr accuracy is taken from invocation_type classifciation
-summary is stored for dev purposes now. result_json wont have the summary in prod
-
-
-classsifcation accuraccy of LLM - how do we know that its correct
-email summary engine
-adding filter for community
-email frequency control
-multi community picking up
-update the final url in the data pipeline
-no horizontal scrolling for document management screen
-flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
-remove srfaxid and add From Fax# / Remote ID
-add more filters like in the super engineer screen
-Fix the workflow status, which is currently showing as zero. manual and success. and failed
-Check DLQ on monday.
+control plane
+- [x] no horizontal scrolling for document management screen
+- [x] add more filters like in the super engineer screen
+- [ ] adding filter for community
+- [ ] sharepoint verification
+- [ ] Fix the workflow status, which is currently showing as zero. manual and success. and failed
+- [x] remove srfaxid
+- [ ] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
+- [ ] add From Fax# / Remote ID
+- [ ] how will they be adding the provider key
