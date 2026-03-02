@@ -307,8 +307,9 @@ data-pipeline
 - [ ] email summary engine
 	- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
 - [ ] add back the duplicate check for faxes
-- [ ] if any error on the LLM call put it in manual, update boolean too
+- [ ] if any error on the LLM call put it in manual, update boolean too, how do we know error in llm?
 - [ ] monorepo function deployment
+- [ ] check if search is working
 
 control plane
 - [x] no horizontal scrolling for document management screen
@@ -317,7 +318,7 @@ control plane
 - [x] Fix the workflow status, which is currently showing as zero. manual and success. and failed
 - [x] remove srfaxid
 - [x] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
-- [ ] on changing the flag, file should be moved from one folder to the new one
+- [x] on changing the flag, file should be moved from one folder to the new one
 - [ ] email frequency control
 	- [ ] per_fax
 	- [ ] value of 'x' hours
@@ -330,5 +331,5 @@ control plane
 - [x] change manual to override (red)
 - [x] while adding model, input token cost is not needed
 - [x] configured ai models no horizontal scroll
-- [ ] model verification
+- [x] model verification
 - [ ] env issue, navan take from dinesh
