@@ -49,8 +49,7 @@
               "title": "new backend knowledge"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -227,10 +226,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "5f28926df4f5de5a",
+  "active": "473b20da6f86e3b3",
   "lastOpenFiles": [
-    "reserve now.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "reserve now.md",
     "new backend knowledge.md",
     "Tericsoft/Projects/BMB/BMB.md",
     "balance.md",

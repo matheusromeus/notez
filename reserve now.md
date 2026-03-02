@@ -7,4 +7,5 @@
 	When we click total week revenue – go to week revenue
 	When we click total month revenue – go to month revenue
 
+- [ ] public page - Change layout to look more like website, like a three layout system
 - [ ] 
