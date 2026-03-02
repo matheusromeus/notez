@@ -8,4 +8,6 @@
 	When we click total month revenue – go to month revenue
 
 - [ ] public page - Change layout to look more like website, like a three layout system
+- [ ] entire landing page revamp
+- [ ] login and partnr login should go to sign in and sing up page, in a new tab.
 - [ ] 
