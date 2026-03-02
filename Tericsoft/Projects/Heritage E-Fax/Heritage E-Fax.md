@@ -291,11 +291,6 @@ ai
 
 Check DLQ on monday.
 
-what is the manual folder path?
-final communities and folders for filters
-re-check all what we have checked off once more
-need to decide how to add guardrails for provider
-
 
 data-pipeline
 - [x] not saving page count, remote id and callerid in fax_document
@@ -322,10 +317,18 @@ control plane
 - [x] Fix the workflow status, which is currently showing as zero. manual and success. and failed
 - [x] remove srfaxid
 - [x] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
-- [ ] on changing the flag, shouldn't the file be moved from one folder to the new one?
+- [ ] on changing the flag, file should be moved from one folder to the new one
 - [ ] email frequency control
 	- [ ] per_fax
 	- [ ] value of 'x' hours
-- [ ] add From Fax# / Remote ID
-- [ ] how will they be adding the provider key
-- [ ] naziya needs to send workflow_id
+- [x] add From Fax# / Remote ID
+- [ ] exception handling
+- [ ] set is_manual to true when the classification is Other & Uncategorised
+
+- [x] what is the manual folder path? - Other & Uncategorized
+- [x] completed (change to classified) - classified & is_manual = false
+- [x] change manual to override (red)
+- [x] while adding model, input token cost is not needed
+- [x] configured ai models no horizontal scroll
+- [ ] model verification
+- [ ] env issue, navan take from dinesh
