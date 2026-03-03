@@ -302,10 +302,10 @@ data-pipeline
 	- exception -> failed
 	- is_manual is True? -> manual
 - [x] multi community picking up
-	- [ ] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
-- [ ] email summary engine
-	- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
-- [ ] add back the duplicate check for faxes
+	- [x] add the new srfax account aditya@tericsoft.com, theimm0rtal$2026
+- [x] email summary engine
+	- [x] summary is stored for dev purposes now. result_json wont have the summary in prod
+- [x] add back the duplicate check for faxes
 - [ ] monorepo function deployment
 - [x] check if search is working
 
@@ -334,11 +334,11 @@ control plane
 
 
 - [ ] manual custom hours
-if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
-set is_manual to true when the classification is Other & Uncategorised
-email errors - log them
+- [ ] how does the email triggering and filtering work?
+- [ ] if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
+- [ ] set is_manual to true when the classification is Other & Uncategorised
 - [x] check the second community
-- [ ] only use text models
+- [x] only use text models
 
 8336357711
 
