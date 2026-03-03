@@ -291,7 +291,6 @@ ai
 
 Check DLQ on monday.
 
-
 data-pipeline
 - [x] not saving page count, remote id and callerid in fax_document
 	- [x] have to send the pages along with the queue message
@@ -334,6 +333,7 @@ control plane
 
 
 
+- [ ] manual custom hours
 if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
 set is_manual to true when the classification is Other & Uncategorised
 email errors - log them
