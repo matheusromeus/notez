@@ -307,9 +307,8 @@ data-pipeline
 - [ ] email summary engine
 	- [ ] summary is stored for dev purposes now. result_json wont have the summary in prod
 - [ ] add back the duplicate check for faxes
-- [ ] if any error on the LLM call put it in manual, update boolean too, how do we know error in llm?
 - [ ] monorepo function deployment
-- [ ] check if search is working
+- [x] check if search is working
 
 control plane
 - [x] no horizontal scrolling for document management screen
@@ -324,7 +323,6 @@ control plane
 	- [ ] value of 'x' hours
 - [x] add From Fax# / Remote ID
 - [ ] exception handling
-- [ ] set is_manual to true when the classification is Other & Uncategorised
 
 - [x] what is the manual folder path? - Other & Uncategorized
 - [x] completed (change to classified) - classified & is_manual = false
@@ -333,3 +331,13 @@ control plane
 - [x] configured ai models no horizontal scroll
 - [x] model verification
 - [ ] env issue, navan take from dinesh
+
+
+
+if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
+set is_manual to true when the classification is Other & Uncategorised
+email errors - log them
+- [x] check the second community
+
+8336357711
+

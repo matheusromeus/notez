@@ -49,7 +49,8 @@
               "title": "Heritage E-Fax"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +227,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "473b20da6f86e3b3",
+  "active": "5f28926df4f5de5a",
   "lastOpenFiles": [
+    "Tericsoft/Projects/BMB/BMB.md",
     "reserve now.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "Tericsoft/Projects/BMB/BMB.md",
     "new backend knowledge.md",
     "balance.md",
     "Attachments/IMG_3704.png",
