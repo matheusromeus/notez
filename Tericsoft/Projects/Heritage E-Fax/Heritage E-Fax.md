@@ -338,6 +338,7 @@ if llm has any issue, send manual & uncategorized, what about rate limiting? doe
 set is_manual to true when the classification is Other & Uncategorised
 email errors - log them
 - [x] check the second community
+- [ ] only use text models
 
 8336357711
 
