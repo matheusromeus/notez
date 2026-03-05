@@ -8,7 +8,6 @@
 	When we click total month revenue – go to month revenue
 - [ ] public page - Change layout to look more like website, like a three layout system
 - [ ] entire landing page revamp
-- [x] Login Button Navigation Fix - redirect Join Us button to /signup  2mins
 - [ ] process of joining - 
 	- [ ] new user gives details
 	- [ ] makes the payment
