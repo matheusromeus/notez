@@ -1,3 +1,6 @@
+make this something like https://www.astrix.live/
+
+
 Jira link: https://tericsoft.atlassian.net/jira/software/projects/BMB/boards/537
 
 full page loader at last step of onboarding.
