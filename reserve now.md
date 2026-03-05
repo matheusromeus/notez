@@ -12,6 +12,7 @@
 - [ ] Email templates - Charan has to do it
 9640337631
 
+should zoho invoices be called for every payment?
 
 shouldnt this commission rate also be changed??
 ![[Pasted image 20260303152152.png]]
