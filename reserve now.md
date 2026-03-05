@@ -1,14 +1,7 @@
 
-- [ ] when i click on the dashboard buttons it should take me to the correct /route 
-	When we click total bookings – go to bookings
-	When we click total revenue – go to revenue
-	When we click total customers – go to customers
-	When we click total new revenue – go to day revenue
-	When we click total week revenue – go to week revenue
-	When we click total month revenue – go to month revenue
 - [ ] public page - Change layout to look more like website, like a three layout system
 - [ ] entire landing page revamp
-- [ ] process of joining - 
+- [ ] process of joining -
 	- [ ] new user gives details
 	- [ ] makes the payment
 	- [ ] manual kyc (if rejected, money is given back)
@@ -16,9 +9,7 @@
 	- [ ] finish the onboarding
 	- step 1 of the owner info is where he starts. it will be a separate form.
 	- step 2 onwards will be the new onboarding.
-- [x] show minimum dimensions of photo that should be uploaded on all placeholder image 1 hour
-- [ ] 
-
+- [ ] Email templates - Charan has to do it
 9640337631
 
 
