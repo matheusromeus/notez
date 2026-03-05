@@ -1,5 +1,4 @@
 
-- [ ] public page - Change layout to look more like website, like a three layout system
 - [ ] entire landing page revamp
 - [ ] process of joining -
 	- [ ] new user gives details
