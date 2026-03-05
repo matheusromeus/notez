@@ -26,7 +26,6 @@ Teams
 
 extra hours have to be logged in on keka. what was your agenda for that working hours?
 plan your 8 hours of the day.
-every ticket connected to a github branch
 
 every story break them into points (story slicing)
 3 storypoint feature
@@ -34,3 +33,16 @@ every story break them into points (story slicing)
 
 roam MCP
 see mcp course
+
+
+
+
+1. make sure your github repo is on Jira. Then on DT. then only will you able to link the features/branches/commits to the tickets.
+2. create an ADR
+3. create a Roam Page for TericFlow format
+4. 
+
+
+from where is the data for DT being taken from?
+
+
