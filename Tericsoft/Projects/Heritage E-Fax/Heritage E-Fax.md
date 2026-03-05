@@ -306,22 +306,19 @@ data-pipeline
 - [x] email summary engine
 	- [x] summary is stored for dev purposes now. result_json wont have the summary in prod
 - [x] add back the duplicate check for faxes
-- [ ] monorepo function deployment
 - [x] check if search is working
 
 control plane
 - [x] no horizontal scrolling for document management screen
 - [x] add more filters like in the super engineer screen
-- [ ] sharepoint verification
 - [x] Fix the workflow status, which is currently showing as zero. manual and success. and failed
 - [x] remove srfaxid
 - [x] flag option in document management - flag a classification as incorrect and can be updated. with optional remarks.
 - [x] on changing the flag, file should be moved from one folder to the new one
-- [ ] email frequency control
-	- [ ] per_fax
-	- [ ] value of 'x' hours
+- [x] email frequency control
+	- [x] per_fax
+	- [x] value of 'x' hours
 - [x] add From Fax# / Remote ID
-- [ ] exception handling
 
 - [x] what is the manual folder path? - Other & Uncategorized
 - [x] completed (change to classified) - classified & is_manual = false
@@ -329,16 +326,19 @@ control plane
 - [x] while adding model, input token cost is not needed
 - [x] configured ai models no horizontal scroll
 - [x] model verification
-- [ ] env issue, navan take from dinesh
+- [x] env issue, navan take from dinesh
 
 
 
 - [ ] manual custom hours
-- [ ] how does the email triggering and filtering work?
+- [ ] learn about how the email triggering and filtering work?
 - [ ] if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
 - [ ] set is_manual to true when the classification is Other & Uncategorised
+- [ ] from fax/remote id add to detailed view
 - [x] check the second community
 - [x] only use text models
+- [ ] sharepoint verification
+- [ ] monorepo function deployment
 
 8336357711
 
