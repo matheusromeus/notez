@@ -24,3 +24,9 @@ tables
 2. There was stale data in the tower breakdown modal screen, which caused to give incorrect values for vacant area which cascaded
 
 the values from frontend are taken without validation. there are no guardrails. 
+
+
+---
+
+- add error logging for sendBulkToGST
+- 

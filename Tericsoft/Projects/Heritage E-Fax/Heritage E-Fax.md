@@ -332,19 +332,19 @@ control plane
 
 - [x] only use text models
 - [x] check the second community
-- [ ] manual custom hours
+- [x] manual custom hours
 - [ ] learn about how the email triggering and filtering work?
 - [ ] if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
 - [x] login screen
-- [ ] set is_manual to true when the classification is Other & Uncategorised
+- [x] set is_manual to true when the classification is Other & Uncategorised
 - [ ] from fax/remote id add to detailed view
 - [ ] mismatch between provider selected model, active status etc
 - [ ] sharepoint verification
 - [ ] monorepo function deployment
 
 
-
 can my types (schemas should be the source of truth) create a roam page and add it in tericflow manner?
 
 8336357711
+
 
