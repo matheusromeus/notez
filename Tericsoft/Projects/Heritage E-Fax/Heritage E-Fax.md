@@ -333,11 +333,11 @@ control plane
 - [x] only use text models
 - [x] check the second community
 - [x] manual custom hours
-- [ ] learn about how the email triggering and filtering work?
-- [ ] if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
+- [ ] learn about how the email triggering and filtering by sessions work?
+- [ ] do the exceptions go back in the queue?
 - [x] login screen
 - [x] set is_manual to true when the classification is Other & Uncategorised
-- [ ] from fax/remote id add to detailed view
+- [x] from fax/remote id add to detailed view
 - [ ] mismatch between provider selected model, active status etc
 - [ ] sharepoint verification
 - [ ] monorepo function deployment
