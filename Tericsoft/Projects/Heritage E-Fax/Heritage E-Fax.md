@@ -348,3 +348,5 @@ can my types (schemas should be the source of truth) create a roam page and add 
 8336357711
 
 
+- logging out when applying filter
+- show past remarks on the input box
