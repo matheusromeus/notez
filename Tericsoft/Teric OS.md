@@ -46,3 +46,6 @@ https://github.com/sooperset/mcp-atlassian
 from where is the data for DT being taken from?
 
 
+after 12 you need to check in.
+
+plan and login.

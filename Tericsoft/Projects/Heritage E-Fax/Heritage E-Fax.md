@@ -335,7 +335,7 @@ control plane
 - [ ] manual custom hours
 - [ ] learn about how the email triggering and filtering work?
 - [ ] if llm has any issue, send manual & uncategorized, what about rate limiting? does it go back in the queue?
-- [ ] login screen
+- [x] login screen
 - [ ] set is_manual to true when the classification is Other & Uncategorised
 - [ ] from fax/remote id add to detailed view
 - [ ] mismatch between provider selected model, active status etc
