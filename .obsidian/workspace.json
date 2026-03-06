@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "reserve now.md",
+                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reserve now"
+              "title": "Heritage E-Fax"
             }
           }
         ]
@@ -200,9 +200,9 @@
   },
   "active": "473b20da6f86e3b3",
   "lastOpenFiles": [
-    "Tericsoft/Projects/BMB/BMB.md",
-    "reserve now.md",
     "Tericsoft/Teric OS.md",
+    "reserve now.md",
+    "Tericsoft/Projects/BMB/BMB.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "new backend knowledge.md",
     "Self Hosting for Next Js.md",
