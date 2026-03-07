@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled 1.md",
+                "file": "stream notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 1"
+              "title": "stream notes"
             }
           }
         ],
@@ -216,7 +216,7 @@
   "active": "132c3f1c68fd5c6b",
   "lastOpenFiles": [
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "Untitled 1.md",
+    "stream notes.md",
     "Streaming",
     "Tericsoft/Teric OS.md",
     "Tericsoft/Projects/BMB/BMB.md",
