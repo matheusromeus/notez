@@ -11,7 +11,6 @@
 - [ ] check [[Heritage E-Fax]] todos
 - [ ] add Heritage Tickets 
 - [ ] check the roam pages dinesh working on endpoint
-- [ ] on 25th Feb morning 9 am, run the cron job manually
 ## personal
 
 - [ ] check the paper notebook

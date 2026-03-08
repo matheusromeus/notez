@@ -13,7 +13,12 @@ Ask Sahil
 - [ ] Lead conversation history will be available for a limited time (e.g., 10 days) before becoming defunct. How should this be done? Will the request itself be invalid? Will they have to send the request again? -> Yes, they'll have to send again
 - [ ] in production, check if the upload is taking a lot of time, after the server location has been changed
 - [ ] does bands and clubs also need the liked/recommendations split?
-
+- [ ] current credits mismatch because top header is not updating after the credits are rejected
+- [ ] is the approval present?
+- [ ] resolutions for all the photo uploads
+- [ ] keep the public profile preview in the header common
+- [ ] uploads still not optimised
+- [ ] remove the band popup in public profile
 
 curl -H "Content-Type: application/data" -X POST https://accounts.zoho.com/oauth/v2/token?code=1000.802f04345a168653ad43328999db74ba.1f2be5f732102b3430b1700a33f8c150&client_id=1000.OAV9R04U9WDTAP9F4V565555VWGO8B&client_secret=5ee07b0a36ab1da320f5ec7895f6c1f69546613716&redirect_uri=http://www.zoho.com/books&grant_type=offline
 
