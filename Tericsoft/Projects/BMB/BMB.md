@@ -1,4 +1,6 @@
 make this something like https://www.astrix.live/
+https://saaslandingpage.com/todesktop/
+https://saaslandingpage.com/flora/ - bento grid for the bands & clubs and events
 
 
 full page loader at last step of onboarding.
