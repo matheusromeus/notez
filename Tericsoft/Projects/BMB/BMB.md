@@ -22,4 +22,5 @@ https://bookmyband.teric.services/?state=testing&code=1000.802f04345a168653ad433
 
 
 - [ ] user already has a band error
+- [ ] register and then /me having error because of phone number, check phone numebr there itself
 - [ ] 
