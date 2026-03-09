@@ -2,7 +2,6 @@
 
 7-03-'26
 ---
-what are my learnings from today?
 
 - set up my notifications
 - 12-2am streams
@@ -11,3 +10,10 @@ what are my learnings from today?
 
 8-03-'26
 ---
+
+- stop performing
+
+9-03-'26
+---
+- cut background noise
+

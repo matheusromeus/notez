@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DDIA.md",
+                "file": "stream notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "DDIA"
+              "title": "stream notes"
             }
           }
         ]
@@ -200,14 +200,15 @@
   },
   "active": "4d55a887dbeb14cb",
   "lastOpenFiles": [
+    "Untitled 2.md",
+    "Untitled.md",
+    "Untitled 1.md",
+    "Untitled 3.md",
+    "DDIA.md",
     "landing page.md",
     "reserve now.md",
-    "Untitled 3.md",
-    "Untitled 1.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "Tericsoft/Projects/BMB/BMB.md",
-    "DDIA.md",
-    "Untitled 2.md",
     "TODO.md",
     "Tericsoft/Teric OS.md",
     "Apple Notes/losing individuality because of the evolution of system.md",
@@ -225,7 +226,6 @@
     "Apple Notes/mostly we need the entire data back, hence nosql can make sense.md",
     "Apple Notes/movies to watch.md",
     "Apple Notes/MY MONTHLY CASH FLOW.md",
-    "Apple Notes/nahhari.md",
     "Attachments/event capturing.m4a",
     "Attachments/IMG_2429.png",
     "Attachments/New Note.jpeg",
