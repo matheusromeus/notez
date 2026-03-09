@@ -1,5 +1,5 @@
 
-1. Hero Section with small strip of famous companies using this
+1. [ ] Hero Section with small strip of famous companies using this
 2. Core Features - Group features into categories instead of listing 20 items.
 3. Event Management made easy - Show full lifecycle of the platform (Demo?)
 4. How it Works
