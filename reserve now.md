@@ -9,6 +9,7 @@
 	- step 1 of the owner info is where he starts. it will be a separate form.
 	- step 2 onwards will be the new onboarding.
 - [ ] Email templates - Charan has to do it
+- [ ] floating button whatsapp integration
 9640337631
 
 - should zoho invoices be called for every payment?
