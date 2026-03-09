@@ -19,4 +19,3 @@
 - shouldnt this commission rate also be changed??
 	![[Pasted image 20260303152152.png]]
 	Commission of 10% will be deducted from each booking. - this text also came up
-- 
