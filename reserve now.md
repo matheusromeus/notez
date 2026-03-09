@@ -20,3 +20,13 @@
 - shouldnt this commission rate also be changed??
 	![[Pasted image 20260303152152.png]]
 	Commission of 10% will be deducted from each booking. - this text also came up
+
+
+ refer [[landing page]]
+
+About Us
+
+- [ ] change the buttons in the hero section, add the Watch Demo button too
+
+- [ ] need list of companies using ReserveNow
+- [ ] 
