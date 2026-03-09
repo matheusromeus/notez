@@ -16,4 +16,11 @@
 9-03-'26
 ---
 - cut background noise
+- logitech c920 cam
+- simple ring light
+- enable noise suppresion in obs
+- picture settings in obs
+
+stream deck for your phone
+touchportal
 
