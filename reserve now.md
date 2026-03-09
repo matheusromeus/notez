@@ -8,7 +8,7 @@
 	- [ ] finish the onboarding
 	- step 1 of the owner info is where he starts. it will be a separate form.
 	- step 2 onwards will be the new onboarding.
-- [ ] Email templates - Charan has to do it
+- [ ] Email templates
 - [ ] floating button whatsapp integration
 
 1234567890Apa
@@ -29,5 +29,5 @@ About Us
 
 - [ ] change the buttons in the hero section, add the Watch Demo button too
 
-- [ ] need list of companies using ReserveNow
-- [ ] 
+
+
