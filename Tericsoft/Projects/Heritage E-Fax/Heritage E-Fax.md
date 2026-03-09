@@ -352,3 +352,5 @@ can my types (schemas should be the source of truth) create a roam page and add 
 - implement the password protection
 - not able to manually override the fax
 - no model_invocation rows for the workflows
+- [ ] file name according to the old sheet
+- [ ] no multiple folders, only one folders

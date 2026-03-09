@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tericsoft/Projects/BMB/BMB.md",
+                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "BMB"
+              "title": "Heritage E-Fax"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "3ab0c3b6b72a7812",
   "lastOpenFiles": [
+    "Tericsoft/Teric OS.md",
     "reserve now.md",
     "Tericsoft/Projects/BMB/BMB.md",
     "TODO.md",
@@ -240,7 +241,6 @@
     "Apple Notes/nest js.md",
     "Apple Notes/never lose that zest for life. keep your vices close..md",
     "Apple Notes/New Note.md",
-    "Apple Notes/note.md",
     "Attachments/event capturing.m4a",
     "Attachments/IMG_2429.png",
     "Attachments/New Note.jpeg",

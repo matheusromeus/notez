@@ -10,7 +10,7 @@
 	- step 2 onwards will be the new onboarding.
 - [ ] Email templates - Charan has to do it
 - [ ] floating button whatsapp integration
-9640337631
+
 
 - should zoho invoices be called for every payment?
 - where is the actual rate cut for the package creation?
