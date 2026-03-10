@@ -41,6 +41,9 @@ Skol#9999
 - [ ] no of slots card in the dashboard
 - [ ] book for continuous date
 - [ ] tables are not going to correct page
+- [ ] customer is append only
+- [ ] dashboard numbers are wrong
+- [ ] add the owner info in the verifications tab
 - [ ] 
 
 
