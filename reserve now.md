@@ -44,7 +44,7 @@ Skol#9999
 - [ ] customer is append only
 - [ ] dashboard numbers are wrong
 - [ ] add the owner info in the verifications tab
-- [ ] 
+- [ ] link of maigc link point tot localhost
 
 
 
