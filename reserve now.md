@@ -31,3 +31,6 @@ About Us
 
 
 
+
+terms and conditions come up first
+owner information
