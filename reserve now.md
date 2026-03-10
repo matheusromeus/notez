@@ -40,3 +40,13 @@ Skol#9999
 - [ ] editing package, should allow zero price when package is free
 - [ ] no of slots card in the dashboard
 - [ ] book for continuous date
+- [ ] tables are not going to correct page
+- [ ] 
+
+
+
+
+is_onboarding_completed -
+last_completed_step - 
+has_terms_accepted - 
+kyc_status - 
