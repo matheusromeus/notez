@@ -34,3 +34,9 @@ About Us
 
 terms and conditions come up first
 owner information
+
+Skol#9999
+
+- [ ] editing package, should allow zero price when package is free
+- [ ] no of slots card in the dashboard
+- [ ] book for continuous date
