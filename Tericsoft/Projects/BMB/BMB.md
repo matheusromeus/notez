@@ -25,4 +25,4 @@ https://bookmyband.teric.services/?state=testing&code=1000.802f04345a168653ad433
 - [ ] View all gigs (g should be capital)
 - [ ] remove the connections after 10 days
 - [ ] cron jobs
-- [ ] login with SMS creds -> Yes need to provide, check with Sai for access  
+- [ ] entire sms service has to be re-written

@@ -5,8 +5,6 @@
 - [ ] Then Start with ReserveNow
 - [ ] Phoenix just check
 #### later (specify to when)
-- [ ] add okr initiatives
-	- [ ] check gemini chat for okr
 - [ ] add BMB tickets
 - [ ] check [[Heritage E-Fax]] todos
 - [ ] add Heritage Tickets 
@@ -26,8 +24,3 @@
 - [ ] read Obsidian Help
 - [ ] look into the OKR notes (different vault - notes)
 - [ ] life audit check apple notes "routine"
-
-
----
-
-add original file name and new file name for the 
