@@ -339,7 +339,6 @@ control plane
 - [x] set is_manual to true when the classification is Other & Uncategorised
 - [x] from fax/remote id add to detailed view
 - [ ] mismatch between provider selected model, active status etc
-- [ ] sharepoint verification
 - [ ] monorepo function deployment
 
 
@@ -349,9 +348,10 @@ can my types (schemas should be the source of truth) create a roam page and add 
 
 
 
-- implement the password protection
-- not able to manually override the fax
-- no model_invocation rows for the workflows
-- [ ] file name according to the old sheet
+- [ ] implement the password protection
+- [ ] sharepoint verification
+- [ ] not able to manually override the fax (graph api permissions)
+- [ ] no model_invocation rows for the workflows (naziya)
+- [ ] azure keys (new input fields)
 - [ ] no multiple folders, only one folders
 
