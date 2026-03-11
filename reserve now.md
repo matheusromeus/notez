@@ -23,7 +23,6 @@
 
  refer [[landing page]]
 
-
 - [ ] editing package, should allow zero price when package is free
 - [ ] no of slots card in the dashboard
 - [ ] book for continuous date
