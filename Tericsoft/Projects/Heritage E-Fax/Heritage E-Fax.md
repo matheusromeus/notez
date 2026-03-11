@@ -350,7 +350,7 @@ can my types (schemas should be the source of truth) create a roam page and add 
 
 - [ ] implement the password protection
 - [ ] sharepoint verification
-- [ ] not able to manually override the fax (graph api permissions)
+- [ ] not able to manually override the fax (only change the name) (graph api permissions)
 - [ ] no model_invocation rows for the workflows (naziya)
 - [ ] azure keys (new input fields)
 - [ ] no multiple folders, only one folders
