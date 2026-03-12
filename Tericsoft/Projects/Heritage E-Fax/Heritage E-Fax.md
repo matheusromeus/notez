@@ -350,7 +350,76 @@ control plane
 
 - [ ] some faxes are not being renamed - it's actually being renamened, see the underscore, but what is the 
 - [ ] new filename has to be changed when manual overriden
-- [ ] 1.UI change in login page
+- [x] 1.UI change in login page
 - [x] 2.redirecting to login page once session is ended..
 
 3.filerenaming issue once classified..
+
+ssr + csr if we can
+#
+
+Here’s what’s causing the latency and how to improve it.
+
+---
+
+## Why the app feels slow
+
+### 1. **Double round-trip when opening the app (/)**
+
+- You hit `/` → server runs `isAuthenticated()` → **one request** to backend `GET /auth/me` (and DB).
+- Then `redirect("/dashboard")` → **second request** to load `/dashboard` → **another request** to backend `GET /api/dashboard`.
+
+So a single “open app” flow does **two full server round-trips** (auth then dashboard), and the user waits for both before seeing the dashboard.
+
+### 2. **Backend: many sequential DB queries**
+
+In `heritage-backend/app/api/dashboard.py`, `GET /api/dashboard` does everything one after the other:
+
+```165:167:heritage-backend/app/api/dashboard.py
+    communities = await list_communities(db=db)
+    metrics = await get_dashboard_metrics(community_id=community_id, db=db)
+    system_overview = await get_system_overview(db=db)
+```
+
+- `list_communities` → 1 query  
+- `get_dashboard_metrics` → **6 queries** (doc count, workflow counts, failed, cost, OCR avg, classification avg), all `await`ed in sequence  
+- `get_system_overview` → 2 queries  
+
+So the backend does **9+ sequential DB round-trips** per dashboard load. That adds up quickly (e.g. 9 × 5–20 ms each).
+
+### 3. **No streaming**
+
+- The dashboard page waits for the **entire** server render and backend response before sending HTML.
+- `loading.tsx` shows a spinner, but the first byte of real content is delayed until all data is ready.
+
+### 4. **No caching**
+
+- `force-dynamic` on every route → no static or cached HTML.
+- Auth is checked with a live `/auth/me` call when you hit `/`.
+- No `fetch` caching or short-lived cache for dashboard data, so every navigation can trigger full backend work again.
+
+### 5. **Server-side `cookies()` on every request**
+
+- Each server-side `apiGet` (and similar) calls `getServerCookieHeader()` → `cookies()`, which in Next.js is async and adds a bit of overhead on every request.
+
+---
+
+## Changes that will help most
+
+1. **Backend: run dashboard work in parallel**  
+   In `get_dashboard` run the three pieces in parallel, e.g. `asyncio.gather(list_communities(...), get_dashboard_metrics(...), get_system_overview(...))`, so you get one “round” of DB work instead of 3 sequential steps. Optionally parallelize the 6 queries inside `get_dashboard_metrics` where safe (e.g. with `gather` or a small helper).
+
+2. **Avoid the double round-trip from `/`**  
+   - Either: make `/` immediately redirect to `/dashboard` (or login) **without** calling the backend (e.g. redirect in middleware or a very light page that only reads the cookie and redirects), and do the real auth check only on `/dashboard` (and other protected routes).  
+   - Or: if you keep auth on `/`, at least ensure `/dashboard` doesn’t redundantly re-validate in a way that blocks first paint (e.g. auth in layout vs page, or do auth in parallel with data).
+
+3. **Use streaming where possible**  
+   Send the shell (layout + loading state) immediately and stream in the dashboard data (e.g. Suspense + async component or a route that streams the slow part). That way the user sees the app and a loading state instead of a blank wait.
+
+4. **Optional: short-lived cache for dashboard data**  
+   For example cache `getDashboardData` (or the backend response) for 10–30 seconds so repeat visits or refreshes don’t always hit the backend and all 9 queries.
+
+5. **Keep an eye on DB**  
+   Add indexes for the columns used in dashboard filters/aggregations (e.g. `community_id`, status, `invocation_type`, JSON keys used in `result_json`) so each of those 9 queries stays fast.
+
+If you tell me whether you prefer to optimize the backend first, the frontend first, or both, I can suggest concrete code changes (e.g. exact `asyncio.gather` and route/middleware edits) next.
