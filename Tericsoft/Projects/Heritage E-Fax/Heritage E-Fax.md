@@ -348,8 +348,8 @@ can my types (schemas should be the source of truth) create a roam page and add 
 
 
 
-- [x] implement the password protection (need to change AUTH-enabled to true both dev and prod)
+- [x] implement the password protection (need to change AUTH-enabled to  prod)
 - [ ] sharepoint verification
-- [ ] not able to manually override the fax (only change the name) (graph api permissions)
+- [x] not able to manually override the fax (only change the name) (graph api permissions)  
 - [ ] no multiple folders, only one folders
 
