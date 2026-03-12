@@ -349,7 +349,7 @@ control plane
 
 
 - [ ] some faxes are not being renamed - it's actually being renamened, see the underscore, but what is the 
-- [ ] new filename has to be changed when manual overriden
+- [x] new filename has to be changed when manual overriden
 - [x] 1.UI change in login page
 - [x] 2.redirecting to login page once session is ended..
 
