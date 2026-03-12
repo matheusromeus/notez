@@ -6,9 +6,7 @@
 - [ ] book for continuous date
 - [ ] tables are not going to correct page
 - [ ] customer is append only
-- [x] dashboard numbers are wrong
 - [ ] add the owner info in the verifications tab
-- [ ] link of maigc link point tot localhost
 
 **can check later**
 Invoice is not being received on inbox - all marked as draft
@@ -34,7 +32,7 @@ remove the sign in from sign up page
 ---
 
 - zoho invoices should be called for every payment
-- what changes in software is edp going to do?
+- what changes in software is edp going to do? - changing the permissions of the business owner and their team
 - making clients flow in marketing
 - are visitors there?
-- 
+- change the signup right side also same as the login, make its UI proper

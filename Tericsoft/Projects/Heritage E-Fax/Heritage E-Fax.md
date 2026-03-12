@@ -342,13 +342,10 @@ control plane
 - [ ] monorepo function deployment
 
 
-can my types (schemas should be the source of truth) create a roam page and add it in tericflow manner?
-
-8336357711
-
-
 - [x] implement the password protection (need to change AUTH-enabled to  prod)
 - [ ] sharepoint verification
 - [x] not able to manually override the fax (only change the name) (graph api permissions)
 - [x] no multiple folders, only one folders
 
+
+- [ ] some faxes are not being renamed
