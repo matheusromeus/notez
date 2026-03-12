@@ -28,5 +28,19 @@ the values from frontend are taken without validation. there are no guardrails.
 
 ---
 
-- add error logging for sendBulkToGST
-- 
+payment due date is not greater than billing to date.
+
+25th invoices are generated and cleared on our end
+then on 1st sent to gst, approved and setn to client
+and then by 10th the payment is made
+
+insert supply type in code itself for tenant, add a dropdown.
+
+HSN Code - Tenant?
+Rent & Parking & Signage - 997212
+CAM - 995419
+
+More items in the Create New Invoice
+
+sezwp - igst 18%
+if igst 0% - sezwop
