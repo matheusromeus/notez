@@ -348,5 +348,10 @@ control plane
 - [x] no multiple folders, only one folders
 
 
-- [ ] some faxes are not being renamed
+- [ ] some faxes are not being renamed - it's actually being renamened, see the underscore, but what is the 
 - [ ] new filename has to be changed when manual overriden
+- [ ] 1.UI change in login page
+
+2.redirecting to login page once session is ended..
+
+3.filerenaming issue once classified..
