@@ -1,11 +1,11 @@
 
  refer [[landing page]]
 
+the dashboard table is not going to 100/page
+
 - [ ] editing package, should allow zero price when package is free
-- [ ] no of slots card in the dashboard
+- [ ] no of slots card in the dashboard - what is slots?
 - [ ] book for continuous date
-- [ ] tables are not going to correct page
-- [ ] customer is append only
 - [ ] add the owner info in the verifications tab
 
 **can check later**
@@ -40,4 +40,21 @@ remove the sign in from sign up page
 - new fields and data should be collected in the onboarding - refer to pdf
 	- 
 - zoho invoices should be called for every payment
-- 
+
+
+Issues  
+  1. Annual Subscription - ₹500  
+    Update text - Price Changes  
+		We reserve the right to modify pricing with 30 days notice. You will be informed of any changes in advance.
+		**comment it out**
+
+  2. Owner Info  
+    Email iD not present - the email that you took from sign up show that as hardcoded in the owner info form
+    Add aadhar card of owner in form of image - png or pdf
+
+  3. Complete your subscription
+    24/7 customer support - remove  
+    cross check "Commission Structure" with internal formulae
+
+  4. RZP page   
+    Offer price was 500, charged with 5000

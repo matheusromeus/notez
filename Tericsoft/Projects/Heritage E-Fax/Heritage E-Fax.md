@@ -356,6 +356,9 @@ control plane
 3.filerenaming issue once classified..
 
 ssr + csr if we can
+
+verify srfax
+verify llm, azure should take extra params
 #
 
 Here’s what’s causing the latency and how to improve it.

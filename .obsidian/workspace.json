@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "digital proxy of you.md",
+                "file": "Tericsoft/Projects/ReserveNow/reserve now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "digital proxy of you"
+              "title": "reserve now"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,20 +212,20 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "74a60933be2c2cf7",
+  "active": "ca3fba7bfa3abada",
   "lastOpenFiles": [
-    "Untitled 1.md",
-    "digital proxy of you.md",
-    "Tericsoft/Projects/ReserveNow/reserve now.md",
-    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "Tericsoft/Projects/BMB/BMB.md",
+    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "Tericsoft/Projects/ReserveNow/reserve now.md",
+    "digital proxy of you.md",
+    "TODO.md",
+    "Untitled 1.md",
     "phoenix.md",
     "tiodo.md",
     "Tericsoft/Projects/ReserveNow/landing page.md",
     "new backend knowledge.md",
     "Tericsoft/Projects/ReserveNow",
     "stream notes.md",
-    "TODO.md",
     "Attachments/Pasted image 20260311035601.png",
     "Attachments/Pasted image 20260310163405.png",
     "Untitled.md",
