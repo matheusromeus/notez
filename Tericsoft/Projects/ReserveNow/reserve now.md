@@ -3,6 +3,10 @@
 
 To Do
 ---
+- [x] carousel on view business page - 1h
+- [x] show only owner packages in the dsaboard dropdown - 5m
+- [x] only 10/page working on dashboard tbale - 5m
+- [x] even afte rtoggling active and inactive packages the filter is not working in my packages - 5m
 - [ ] phase 2 of onboarding is going to be moved to superadmin portal
 - [ ] display email and phone number to be shown/disabled on view business (what to show too) add alternate email and phone (add them to the form, and they will be shown on the view) - 0.5h
 - [ ] add the fields needed in phase 1 and phase 2 of onboarding
@@ -14,10 +18,6 @@ To Do
 - [ ] zoho invoices should be called for every payment
 - [ ] add the owner info in the verifications tab
 - [ ] gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back)
-- [ ] carousel on view business page - 1h
-- [ ] show only owner packages in the dsaboard dropdown - 5m
-- [ ] only 10/page working on dashboard tbale - 5m
-- [ ] even afte rtoggling active and inactive packages the filter is not working in my packages - 5m
 - [ ] give the calendar in the view business page (with multiple days) - 6h
 - [ ] when somebody books a package, send email to the business head
 - [ ] filters booking not working status
@@ -25,6 +25,7 @@ To Do
 - [ ] extending package option ux is very painful (inside upadte session 302) & rate for bulk change, sessions can be zero also
 - [ ] packages and sales have different duration edit option for sale duration, optional toggle for sale duration
 - [ ] weekday we have some price, or weekend some price, if we can select duarion of the package, and select days, only then itll be created, like sundays, like how the alarm feature works in iphone (no need to edit the )
+- [ ] responsive design
 
 
 
