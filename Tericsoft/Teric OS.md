@@ -40,7 +40,6 @@ https://github.com/sooperset/mcp-atlassian
 1. make sure your github repo is on Jira. Then on DT. then only will you able to link the features/branches/commits to the tickets.
 2. create an ADR
 3. create a Roam Page for TericFlow format
-4. 
 
 
 from where is the data for DT being taken from?
