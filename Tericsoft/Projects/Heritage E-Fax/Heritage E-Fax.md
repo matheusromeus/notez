@@ -357,8 +357,14 @@ control plane
 
 ssr + csr if we can
 
-verify srfax
 verify llm, azure should take extra params
+1. email fix
+
+2.sharepoint path hard coded,able to add from ui.
+
+3.while editing community, we are asking srfax credentials again.
+
+4. Able to verify srfax and SharePoint even though we are giving wrong credentials and path.
 #
 
 Here’s what’s causing the latency and how to improve it.
