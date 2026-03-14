@@ -1,12 +1,8 @@
 
  refer [[landing page]]
 
-the dashboard table is not going to 100/page
-
 - [ ] editing package, should allow zero price when package is free
 - [ ] no of slots card in the dashboard - what is slots?
-- [ ] book for continuous date
-- [ ] add the owner info in the verifications tab
 
 **can check later**
 Invoice is not being received on inbox - all marked as draft
@@ -34,6 +30,7 @@ Still mentioning as slots instead of tickets
 	- 
 - zoho invoices should be called for every payment
 - move onboarding to superadmin - 4h
+- [ ] add the owner info in the verifications tab
 ``- `display email and phone number to be shown/disabled on view business (what to show too) add alternate email and phone (add them to the form, and they will be shown on the view) - 0.5h`
 - gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back)
 - carousel on view business page - 1h
