@@ -22,24 +22,21 @@ To Do
 	- **Cancelled Cheque** - png jpg
 	- business type
 - [x] make the first text as 500 rupees
+- [x] access/role management for EDP role - changing the permissions of the business owner and their team 1h
+- [x] making new clients flow in marketing - 2h
 
 
 - [ ] Export functionality is missing for accounts role, bookings and transactions in super admin
-- [ ] making new clients flow in marketing
- - [ ] access/role management for EDP role - changing the permissions of the business owner and their team
-- [ ] want to change the booking date (the entire booking)
+- [ ] sessions can be zero also? what about the bookings?
 
 
 - [ ] give the calendar in the view business page (with multiple days) - 6h, with multiple day qr code and package opening in new page
 - [ ] zoho invoices should be called for every payment
 - [ ] gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back) - on razorpay-details api call, redirect and then loading
-- [ ] sessions can be zero also? what about the bookings?
 - [ ] add the new commission structure with internal formulae
+- [ ] want to change the booking date (the entire booking)
 - [ ] onboarding redirection issue, from go to Admin button, from payment page
 - [ ] responsive design
-
-
-export functionality in accounts?
 
 
 is_onboarding_completed -
@@ -58,14 +55,9 @@ number of people that can come in is the slots
 
 reduce it to number of total bookings till now.
 
-different clients, same as users and roles
-
-status inactive? in customers
-
 excel - done transactions (last stages) 
 
 bookings excel need the discount applied, razopray id, for booking, slot breakdown is empty
-
 
 disable ended events only for MIS
 
