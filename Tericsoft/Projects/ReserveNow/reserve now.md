@@ -13,19 +13,19 @@ To Do
 - [x] add the owner info in the verifications tab
 - [x] when somebody books a package, send email to the business head
 - [x] packages and sales have different duration edit option for sale duration, optional toggle for sale duration
+- [x] if we can select duarion of the package, and select days, only then itll be created, like sundays, like how the alarm feature works in iphone (no need to edit the days)
 
 - [ ] add the fields needed in phase 1 and phase 2 of onboarding
 - [ ] no of slots card in the dashboard - what is slots?
+- [ ] give the calendar in the view business page (with multiple days) - 6h
 - [ ] Export functionality is missing for accounts role in super admin
 - [ ] making new clients flow in marketing
 - [ ] access/role management for EDP role - changing the permissions of the business owner and their team
 - [ ] editing package, should allow zero price when package is free
 - [ ] zoho invoices should be called for every payment
 - [ ] gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back) - on razorpay-details api call, redirect and then loading
-- [ ] give the calendar in the view business page (with multiple days) - 6h
 - [ ] want to change the booking date (the entire booking)
 - [ ] extending package option ux is very painful (inside upadte session 302) & rate for bulk change, sessions can be zero also
-- [ ] weekday we have some price, or weekend some price, if we can select duarion of the package, and select days, only then itll be created, like sundays, like how the alarm feature works in iphone (no need to edit the days)
 - [ ] add the new commission structure with internal formulae
 - [ ] responsive design
 
