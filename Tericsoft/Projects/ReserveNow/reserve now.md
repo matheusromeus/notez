@@ -18,12 +18,12 @@ To Do
 - [x] editing package, should allow zero price when package is free
 
 - [ ] add the fields needed in phase 1 and phase 2 of onboarding
-	- **Aadhar Card No** - only number? or png/jpg/pdf? - phase 1
+	- **Aadhar Card No** - only number and png/jpg/pdf? - phase 1
+	- **Cancelled Cheque** - png jpg
 	- 
 - [ ] give the calendar in the view business page (with multiple days) - 6h, with multiple day qr code and package opening in new page
 - [ ] Export functionality is missing for accounts role in super admin
 - [ ] making new clients flow in marketing
-- [ ] access/role management for EDP role - changing the permissions of the business owner and their team
 - [ ] want to change the booking date (the entire booking)
 
 - [ ] zoho invoices should be called for every payment
@@ -36,10 +36,12 @@ To Do
 
 
 sessions can be zero also? what about the bookings?
-edp role explanation
+
+edp role explanation - 
 export functionality in accounts?
 making new clients is it the onboarding?
-is slot the same as sessions?
+
+ access/role management for EDP role - changing the permissions of the business owner and their team
 
 what about refund flow?
 
@@ -60,6 +62,23 @@ Issues
   3. RZP page   
     Offer price was 500, charged with 5000
 
-
 doubts
 ---
+
+one day = one session
+number of people that can come in is the slots
+
+reduce it to number of total bookings till now.
+
+
+different clients, same as users and roles
+
+status inactive? in customers
+
+excel - done transactions (last stages) 
+
+bookings excel need the discount applied, razopray id, for booking, slot breakdown is empty
+
+
+disable ended events only for MIS
+
