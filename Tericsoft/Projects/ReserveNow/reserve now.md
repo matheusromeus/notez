@@ -15,6 +15,7 @@ To Do
 - [x] packages and sales have different duration edit option for sale duration, optional toggle for sale duration
 - [x] if we can select duarion of the package, and select days, only then itll be created, like sundays, like how the alarm feature works in iphone (no need to edit the days)
 
+
 - [ ] add the fields needed in phase 1 and phase 2 of onboarding
 - [ ] no of slots card in the dashboard - what is slots?
 - [ ] give the calendar in the view business page (with multiple days) - 6h
