@@ -16,11 +16,11 @@ To Do
 - [x] if we can select duarion of the package, and select days, only then itll be created, like sundays, like how the alarm feature works in iphone (no need to edit the days)
 - [x] extending package option ux is very painful (inside upadte session 302) & rate for bulk change
 - [x] editing package, should allow zero price when package is free
+- [x] no of slots card in the dashboard - what is slots?
 
 - [ ] add the fields needed in phase 1 and phase 2 of onboarding
 	- **Aadhar Card No** - only number and png/jpg/pdf? - phase 1
 	- **Cancelled Cheque** - png jpg
-	- 
 - [ ] give the calendar in the view business page (with multiple days) - 6h, with multiple day qr code and package opening in new page
 - [ ] Export functionality is missing for accounts role in super admin
 - [ ] making new clients flow in marketing
@@ -30,14 +30,11 @@ To Do
 - [ ] make the first text as 500 rupees
 - [ ] gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back) - on razorpay-details api call, redirect and then loading
 - [ ] sessions can be zero also? what about the bookings?
-- [ ] no of slots card in the dashboard - what is slots?
 - [ ] add the new commission structure with internal formulae
 - [ ] responsive design
 
 
-sessions can be zero also? what about the bookings?
-
-edp role explanation - 
+edp role explanation
 export functionality in accounts?
 making new clients is it the onboarding?
 
@@ -69,7 +66,6 @@ one day = one session
 number of people that can come in is the slots
 
 reduce it to number of total bookings till now.
-
 
 different clients, same as users and roles
 
