@@ -60,3 +60,5 @@ same email id is given, for 2 different users. between users, cusoimters, busine
 onboarding in superadmin - rememebr the step we are in.
 subscription starts from the day you paid and not when the kyc got approved
 sale duration should not outpass last date of package
+email saying that these data are needed
+

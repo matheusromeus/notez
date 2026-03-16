@@ -63,8 +63,7 @@
               "title": "vim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -241,11 +240,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "4da2307f49b5022c",
+  "active": "86f837253dd0d23d",
   "lastOpenFiles": [
-    "sharepoint_env.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "sharepoint_env.md",
     "vim.md",
     "Attachments/Pasted image 20260311035601.png",
     "Attachments/Pasted image 20260310163405.png",
