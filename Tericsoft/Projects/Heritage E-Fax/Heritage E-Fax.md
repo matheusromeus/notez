@@ -346,14 +346,9 @@ control plane
 - [ ] sharepoint verification
 - [x] not able to manually override the fax (only change the name) (graph api permissions)
 - [x] no multiple folders, only one folders
-
-
-- [ ] some faxes are not being renamed - it's actually being renamened, see the underscore, but what is the 
 - [x] new filename has to be changed when manual overriden
 - [x] 1.UI change in login page
 - [x] 2.redirecting to login page once session is ended..
-
-3.filerenaming issue once classified..
 
 ssr + csr if we can
 
@@ -368,6 +363,8 @@ verify llm, azure should take extra params
 
 
 until ai-fax, hard code it.
+
+renaming is not working
 
 [[sharepoint_env]]
 
