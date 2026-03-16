@@ -73,10 +73,5 @@ theimm0rtaL$2026
 - [x] while editing community, we are asking srfax credentials again.
 - [x] renameing the files and new files should exist outside of processing folder.
 - [ ] sharepoint path hard coded,able to add from ui.
-- [ ] Able to verify srfax 
-- [ ] SharePoint verification
-
-
-curl -X POST "" \
-  -H "Content-Type: application/x-www-form-urlencoded" \
-  --data "action=Get_Fax_Inbox&access_id=425442&access_pwd=theimm0rtaL$2026&sResponseFormat=JSON&sPeriod=ALL"
+- [x] Able to verify srfax 
+- [x] SharePoint verification
