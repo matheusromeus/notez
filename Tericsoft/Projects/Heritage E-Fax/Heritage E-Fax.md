@@ -365,6 +365,10 @@ verify llm, azure should take extra params
 3.while editing community, we are asking srfax credentials again.
 
 4. Able to verify srfax and SharePoint even though we are giving wrong credentials and path.
+
+
+until ai-fax, hard code it.
+
 #
 
 Here’s what’s causing the latency and how to improve it.
