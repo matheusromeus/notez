@@ -1,4 +1,9 @@
 
+hypervisor OS? server operating system
+proxmox, zima os
+
+zima + tailscale
+
 actual budgeting app - connected to a local LLM
 storage
 qbittorrent (*what's the advantage?*)
@@ -12,4 +17,3 @@ why would i need a VLAN?
 
 ![[Pasted image 20260301030508.png]]
 
-zima os
