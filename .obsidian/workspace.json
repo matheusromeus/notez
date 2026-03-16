@@ -11,14 +11,10 @@
             "id": "18d8cc3293157911",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vim.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "vim"
+              "title": "New tab"
             }
           }
         ]
@@ -201,10 +197,10 @@
   },
   "active": "18d8cc3293157911",
   "lastOpenFiles": [
+    "vim.md",
     "sharepoint_env.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "vim.md",
     "Attachments/Pasted image 20260311035601.png",
     "Attachments/Pasted image 20260310163405.png",
     "Attachments/Pasted image 20260303152152.png",
