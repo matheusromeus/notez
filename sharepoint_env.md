@@ -73,7 +73,10 @@ theimm0rtaL$2026
 - [x] while editing community, we are asking srfax credentials again.
 - [x] renameing the files and new files should exist outside of processing folder.
 - [ ] sharepoint path hard coded,able to add from ui.
-- [ ] Able to verify srfax and SharePoint even though we are giving wrong credentials and path.
+- [ ] Able to verify srfax 
+- [ ] SharePoint verification
 
 
-{"cost": {"currency": "USD", "ocr_cost": 0.01, "total_cost": 0.0192375, "llm_input_cost": 0.0068175, "llm_total_cost": 0.0092375, "llm_output_cost": 0.00242}, "usage": {"total_tokens": 2969, "prompt_tokens": 2727, "completion_tokens": 242}, "summary": "Physician order for a cardiology exam (EKG with interpretation) for Jeffrey Loomis, issued by Lisa Lehr NP on 03/02/2026. The procedure is preprocedural cardiovascular examination, with ICD code Z01.810.", "provider": "azure", "model_name": "gpt-4o", "patient_name": "LOOMIS, JEFFREY", "document_type": "Physician Orders", "classification": "Physician Orders", "clinician_name": "LISA LEHR NP", "encounter_type": "Cardiology Exam Order", "key_highlights": ["Cardiology exam order for EKG with interpretation.", "Procedure code: 93000.", "ICD code: Z01.810 - Encounter for preprocedural cardiovascular examination.", "Ordered by Lisa Lehr NP, NPI: 1508465048.", "Patient facility: ONCARE PALLIATIVE LLC, Omaha, NE."], "date_of_service": "03/02/2026", "invocation_type": "classification", "confidence_score": 98, "mrn_chart_number": "15614699", "received_date_time": "03/16/2026 05:33"}
+curl -X POST "" \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  --data "action=Get_Fax_Inbox&access_id=425442&access_pwd=theimm0rtaL$2026&sResponseFormat=JSON&sPeriod=ALL"
