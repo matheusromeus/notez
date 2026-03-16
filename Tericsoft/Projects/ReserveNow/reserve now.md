@@ -52,3 +52,6 @@ so every booking has 4 slot bookings, so 4 entry codes. but right now, it's only
 so you create a higher entity called booking_group. and then the bookings are all part of the booking_group. so that will be a separate table. 
 since there are no multiple sessions a day, its alright to check with date. 
 
+
+same email id is given, for 2 different users. between users, cusoimters, business_clients.
+

@@ -369,6 +369,8 @@ verify llm, azure should take extra params
 
 until ai-fax, hard code it.
 
+[[sharepoint_env]]
+
 #
 
 Here’s what’s causing the latency and how to improve it.
