@@ -33,7 +33,7 @@ To Do
 - [x] Still mentioning as slots instead of tickets
 - [x] gap in payment completion screen in client portal - make the button disabled (full screen loader, do not click back) - on razorpay-details api call, redirect and then loading
 - [x] want to change the booking date (the entire booking)
-- [ ] give the calendar in the view business page (with multiple days) - 6h, with multiple day qr code and package opening in new page
+- [x] give the calendar in the view business page (with multiple days) - 6h, with multiple day qr code and package opening in new page
 
 - [ ] add the new commission structure with internal formulae
 - [ ] onboarding redirection issue, from go to Admin button, from payment page
@@ -55,3 +55,8 @@ since there are no multiple sessions a day, its alright to check with date.
 
 same email id is given, for 2 different users. between users, cusoimters, business_clients.
 
+
+
+onboarding in superadmin - rememebr the step we are in.
+subscription starts from the day you paid and not when the kyc got approved
+sale duration should not outpass last date of package

@@ -67,6 +67,7 @@ Signup OTP Template
 Dear {#var#}, your BookMyBand signup OTP is {#var#}. It is valid for {#var#} minutes. Do not share this OTP with anyone. - Team BookMyBand
 
 (833) 635-7711
+theimm0rtaL$2026
 
 - [x] email fix
 - [x] while editing community, we are asking srfax credentials again.
