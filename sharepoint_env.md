@@ -55,4 +55,15 @@ FAILED_FOLDER - /Failed-dev
 ```
 
 
+Available Drives - Documents
+
+
 Skol2025
+
+Login OTP Template
+Your BookMyBand account login OTP is {#var#}. Do not share this OTP with anyone.- BookMyBand
+
+Signup OTP Template
+Dear {#var#}, your BookMyBand signup OTP is {#var#}. It is valid for {#var#} minutes. Do not share this OTP with anyone. - Team BookMyBand
+
+(833) 635-7711
