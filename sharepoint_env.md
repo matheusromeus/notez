@@ -67,3 +67,9 @@ Signup OTP Template
 Dear {#var#}, your BookMyBand signup OTP is {#var#}. It is valid for {#var#} minutes. Do not share this OTP with anyone. - Team BookMyBand
 
 (833) 635-7711
+
+- [x] email fix
+- [x] while editing community, we are asking srfax credentials again.
+- [ ] renameing the files and new files should exist outside of processing folder.
+- [ ] sharepoint path hard coded,able to add from ui.
+- [ ] Able to verify srfax and SharePoint even though we are giving wrong credentials and path.
