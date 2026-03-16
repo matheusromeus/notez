@@ -1,25 +1,13 @@
 ## work
-
-#### later (specify to when)
+- [ ] test heritage e-fax for the new fixes (custom community too)
+- [ ] make sure reserve now code is updated, env variables (reserve now and BMB)
+- [ ] re write sms with new provider for BMB
+- [ ] landing page for Reserve Now
+- [ ] Phoenix Changes
 - [ ] add BMB tickets
-- [ ] check [[Heritage E-Fax]] todos
-- [ ] add Heritage Tickets 
+- [ ] add Heritage Tickets
+- [ ] what is there for me to do in my OKR
 ## personal
 
-- [ ] check the paper notebook
-- [ ] do research on mba colleges
-- [ ] how can i start off where I left? with the least amount of work as possible
-- [ ] ideate on a personal internal OS [[Teric OS]]
-- [ ] try time blocking
-- [ ] set goals
-- [ ] watch founders note
-- [ ] read Obsidian Help
-- [ ] look into the OKR notes (different vault - notes)
-- [ ] life audit check apple notes "routine"
-
-
-claude code vs cursor
-
-finish reserve now today
-do BMB next week
-weekend phoenix and landing page for reserve now
+- [ ] get visa
+- [ ] plan bali trip
