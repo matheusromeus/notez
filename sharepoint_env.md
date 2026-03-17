@@ -77,3 +77,6 @@ theimm0rtaL$2026
 
 
 all documents in the email should point to sharepoint base folder
+check HIPAA compliance
+research into logging
+attaching document in the email
