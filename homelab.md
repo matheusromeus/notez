@@ -1,16 +1,32 @@
 
-hypervisor OS? server operating system
-proxmox, zima os
+katana gf66 - `Romeus`
 
-zima + tailscale
+zima os + tailscale
+linkding
+create your own personal software
+qbittorrent
+miniflux
+immich
 
-actual budgeting app - connected to a local LLM
+what can i use grafana for?
+
+https://github.com/mischavandenburg/whoop-scraper
+
 storage
-qbittorrent (*what's the advantage?*)
-
-can try immich
 
 checking wireshark - can know if someone is sending data back to them? or malware?
+
+```
+Internet
+   │
+VPN / Tailscale
+   │
+Home Server
+   ├── qBittorrent (downloads)
+   ├── Radarr / Sonarr (automation)
+   ├── Prowlarr (indexers)
+   └── Plex / Jellyfin (streaming)
+```
 
 
 why would i need a VLAN?

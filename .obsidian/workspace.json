@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "homelab.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "homelab"
+              "title": "TODO"
             }
           }
         ]
@@ -200,8 +200,8 @@
   },
   "active": "3b25f0b44f4e0bd1",
   "lastOpenFiles": [
-    "Tericsoft/Projects/ReserveNow/reserve now.md",
     "homelab.md",
+    "Tericsoft/Projects/ReserveNow/reserve now.md",
     "TODO.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "sharepoint_env.md",
