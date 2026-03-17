@@ -74,3 +74,12 @@ theimm0rtaL$2026
 - [ ] sharepoint path hard coded,able to add from ui.
 - [x] Able to verify srfax 
 - [x] SharePoint verification
+
+curl -X POST https://www.srfax.com/SRF_SecWebSvc.php \
+  -H "Content-Type: application/x-www-form-urlencoded" \
+  -d "action=Get_Fax_Inbox" \
+  -d "access_id=425442" \
+  -d "access_pwd=theimm0rtaL$2026" \
+  -d "sViewedStatus=UNREAD" \
+  -d "sPeriod=ALL" \
+  -d "sResponseFormat=JSON"
