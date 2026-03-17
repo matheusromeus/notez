@@ -71,15 +71,9 @@ theimm0rtaL$2026
 - [x] email fix
 - [x] while editing community, we are asking srfax credentials again.
 - [x] renameing the files and new files should exist outside of processing folder.
-- [ ] sharepoint path hard coded,able to add from ui.
+- [x] sharepoint path hard coded,able to add from ui.
 - [x] Able to verify srfax 
 - [x] SharePoint verification
 
-curl -X POST https://www.srfax.com/SRF_SecWebSvc.php \
-  -H "Content-Type: application/x-www-form-urlencoded" \
-  -d "action=Get_Fax_Inbox" \
-  -d "access_id=425442" \
-  -d "access_pwd=theimm0rtaL$2026" \
-  -d "sViewedStatus=UNREAD" \
-  -d "sPeriod=ALL" \
-  -d "sResponseFormat=JSON"
+
+all documents in the email should point to sharepoint base folder
