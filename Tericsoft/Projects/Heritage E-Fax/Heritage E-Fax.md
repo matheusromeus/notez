@@ -1,13 +1,12 @@
 
-frontend URL - https://heritage-dev.varshealth.com/
+dev frontend URL - https://heritage-dev.varshealth.com/
+prod frontend URL - https://admin.heritage-communities.com/
 
 main components in the architecture
-- frontend
-- backend
+- dashboard UI
+- dashboard API
 - data pipeline
-- storage + messaging (db & queues)
-
-if the data pipeline is a monorepo, the db access and other code can be shared.
+- relational database (common)
 
 ## data pipeline
 
@@ -287,9 +286,6 @@ ai
 
 
 
-# todos
-
-Check DLQ on monday.
 
 data-pipeline
 - [x] not saving page count, remote id and callerid in fax_document
