@@ -8,6 +8,8 @@ qbittorrent
 miniflux
 immich
 
+### stats
+uptime-kuma
 what can i use grafana for?
 
 https://github.com/mischavandenburg/whoop-scraper
