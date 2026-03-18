@@ -7,5 +7,6 @@ then you get a runtime, you manage nothing else
 
 ## 3 pillars of observability
 - metrics - something you can get a number on. eg: cpu usage, mem usage etc.
-- logs - 
-- traces
+- logs
+- traces - distibuted tracing (across services)
+
