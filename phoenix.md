@@ -42,13 +42,16 @@ and then by 10th the payment is made
 	sezwp - if igst 18%
 	if igst 0% - sezwop
 
-2. More items in the Manual Create New Invoice
+2. [x] More items in the Manual Create New Invoice
 
-3. Give option to enter HSN Code too
-	HSN Code - Tenant?
-	Rent & Parking & Signage - 997212
-	CAM - 995419
+3. [x] Give option to enter HSN Code too
+	- [x] HSN Code - Tenant?
+	- [x] Rent & Parking & Signage - 997212
+	- [x] CAM - 995419
 
 4. [x] payment due date is not greater than billing to date. remove that condition. can be advance invoices too
 
 when adding a new billing entity, they have to contact us. add a new api user and then add the GST number on code also
+
+
+CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
