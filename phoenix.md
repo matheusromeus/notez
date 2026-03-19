@@ -28,19 +28,27 @@ the values from frontend are taken without validation. there are no guardrails.
 
 ---
 
-payment due date is not greater than billing to date.
+
 
 25th invoices are generated and cleared on our end
-then on 1st sent to gst, approved and setn to client
+then on 1st sent to gst, approved and sent to client
 and then by 10th the payment is made
 
-insert supply type in code itself for tenant, add a dropdown.
 
-HSN Code - Tenant?
-Rent & Parking & Signage - 997212
-CAM - 995419
 
-More items in the Create New Invoice
 
-sezwp - igst 18%
-if igst 0% - sezwop
+1. [x] supply type is hardcoded to B2B
+	it can be B2B, B2C, SEZWP, SEZWOP, EXPWP, EXPWOP, DEXP. give them a dropdown to select.
+	sezwp - if igst 18%
+	if igst 0% - sezwop
+
+2. More items in the Manual Create New Invoice
+
+3. Give option to enter HSN Code too
+	HSN Code - Tenant?
+	Rent & Parking & Signage - 997212
+	CAM - 995419
+
+4. [x] payment due date is not greater than billing to date. remove that condition. can be advance invoices too
+
+when adding a new billing entity, they have to contact us. add a new api user and then add the GST number on code also

@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,8 +227,9 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "55a4acc3ca1e14f0",
+  "active": "0f31f1e846e36c00",
   "lastOpenFiles": [
+    "homelab.md",
     "routine.md",
     "phoenix.md",
     "serverless.md",
@@ -245,7 +246,6 @@
     "stream notes.md",
     "Daily Journal/2026-02-08.md",
     "Daily Journal/2026-02-24.md",
-    "homelab.md",
     "sharepoint_env.md",
     "Tericsoft/Projects/ReserveNow/landing page.md",
     "Tericsoft/Projects/BMB/BMB.md",
