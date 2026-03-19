@@ -17,3 +17,14 @@ programming in a high-level language is about communicating a software design to
 
 Thus, a programmer’s focus should be on modularity and readability rather than speed. Making the program run fast is (mostly) the compiler’s concern. Clarity > efficiency.
 
+each letter is a byte. 
+
+|             |                                                                              |
+| ----------- | ---------------------------------------------------------------------------- |
+| char        | usually 8-bits (1 byte)                                                      |
+| int         | usually the natural word size for a<br>machine or OS (e.g., 16, 32, 64 bits) |
+| short int   | at least 16-bits                                                             |
+| long int    | at least 32-bits                                                             |
+| float       | usually 32-bits                                                              |
+| double      | usually 64-bits                                                              |
+| long double | usually at least 64-bits                                                     |
