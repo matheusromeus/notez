@@ -1,10 +1,14 @@
+### devices
+1. katana gf66 - `Romeus`
 
-katana gf66 - `Romeus`
+### services
+simple ssh + tailscale
 
-zima os + tailscale
+samba file browser
+qbittorrent
+
 linkding
 create your own personal software
-qbittorrent
 miniflux
 immich
 
@@ -35,3 +39,11 @@ why would i need a VLAN?
 
 ![[Pasted image 20260301030508.png]]
 
+
+### command to change wallpaper from ssh
+
+gsettings set org.gnome.desktop.background picture-uri \
+"file:///home/romeus/personal/kobe.jpg"
+
+gsettings set org.gnome.desktop.background picture-uri-dark \
+"file:///home/romeus/personal/kobe.jpg"
