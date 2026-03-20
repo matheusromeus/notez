@@ -5,7 +5,6 @@
 - How different parts of the app communicate
 - How the codebase scales over time
 
-
 how is the UI broken down? 
 - is it by features
 - or is it atomic design?
@@ -22,7 +21,3 @@ how is navigation handled in the app? does backend have different types of routi
 API layer
 
 architectural patterns
-
-
-
-will you agree that most of the complexitites in frontend are self inflicted by frameworks?
