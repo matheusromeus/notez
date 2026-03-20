@@ -431,3 +431,11 @@ So the backend does **9+ sequential DB round-trips** per dashboard load. That ad
    Add indexes for the columns used in dashboard filters/aggregations (e.g. `community_id`, status, `invocation_type`, JSON keys used in `result_json`) so each of those 9 queries stays fast.
 
 If you tell me whether you prefer to optimize the backend first, the frontend first, or both, I can suggest concrete code changes (e.g. exact `asyncio.gather` and route/middleware edits) next.
+
+# to do
+
+- [x] time inside the detail page was in IST
+- [x] rename pdf along with timestamp
+- [ ] attach file
+- [x] change folder path in email
+- [x] add from address in the email.
