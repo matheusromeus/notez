@@ -20,93 +20,8 @@
               "icon": "lucide-file",
               "title": "Little Book of Algos"
             }
-          },
-          {
-            "id": "0f31f1e846e36c00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tericsoft/Projects/Phoenix/phoenix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "phoenix"
-            }
-          },
-          {
-            "id": "1ba39b9614b81a75",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DDIA.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "DDIA"
-            }
-          },
-          {
-            "id": "fb17fa73e77e4e59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Heritage E-Fax"
-            }
-          },
-          {
-            "id": "ae477713667f0dc1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "FFmpeg.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "FFmpeg"
-            }
-          },
-          {
-            "id": "2f0f2b40f3651fd2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "codebase.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "codebase"
-            }
-          },
-          {
-            "id": "55a4acc3ca1e14f0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "homelab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "homelab"
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -283,23 +198,23 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "ae477713667f0dc1",
+  "active": "3eae0219c9f5d479",
   "lastOpenFiles": [
-    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "homelab.md",
+    "codebase.md",
     "FFmpeg.md",
+    "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "DDIA.md",
+    "Tericsoft/Projects/Phoenix/phoenix.md",
+    "Little Book of Algos.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "Tericsoft/Projects/BMB/BMB.md",
     "frontend architecture.md",
-    "codebase.md",
     "Tericsoft/Projects/Phoenix",
-    "DDIA.md",
     "creating a startup..md",
     "C - an intro.md",
-    "Tericsoft/Projects/Phoenix/phoenix.md",
-    "homelab.md",
     "routine.md",
     "serverless.md",
-    "Little Book of Algos.md",
     "startup script.md",
     "lessons from heritage.md",
     "Untitled.md",
