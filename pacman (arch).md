@@ -27,8 +27,11 @@ pacman -Qdt = unneeded dependencies
 
 pacman -Qs vim = search vim locally 
 
-pacman -Sc = remove obsolete packages (older installations)
+pacman -Sc = remove cache version of older package installations versions
 
 run pacman -Qq | less and then put that in a cronjob and push to github as a cron. then you can make an install script to clone your laptop in secs
 
 pacman -Ql vim = directories that vim install files are there
+
+
+makepkg -si = ??
