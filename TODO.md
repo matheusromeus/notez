@@ -9,5 +9,8 @@
 - [ ] make sure whatever was done on phoenix is shown on allocation
 - [ ] add Heritage Tickets
 - [ ] what is there for me to do in my OKR
+- [ ] how can i contribute to the documentation of the projects that i have worked on?
 ## personal
 - [ ] call at 7:55 - bali
+
+
