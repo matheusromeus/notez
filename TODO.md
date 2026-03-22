@@ -1,10 +1,13 @@
 ## work
 - [ ] make sure all the workers for BMB are hosted
 - [ ] landing page for Reserve Now
+- [ ] new heritage changes
+- [ ] new reserve now changes
 - [ ] Phoenix Changes
 - [ ] add BMB tickets
+- [ ] add reserve now tickets
+- [ ] make sure whatever was done on phoenix is shown on allocation
 - [ ] add Heritage Tickets
 - [ ] what is there for me to do in my OKR
 ## personal
-- [ ] get visa
-- [ ] plan bali trip
+- [ ] call at 7:55 - bali
