@@ -1,5 +1,6 @@
 
 https://wiki.archlinux.org/title/Pacman/Rosetta
+https://man.archlinux.org/man/pacman.conf.5
 
 -S, -R, -Q
 
