@@ -1,6 +1,9 @@
 
-math
 physics
-computer science
 philosophy
 
+
+
+computer science
+	- basic math
+	- 
