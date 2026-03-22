@@ -11,10 +11,14 @@
             "id": "0bf195c5bec55743",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "project Doctor Doom.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "project Doctor Doom"
             }
           }
         ]
@@ -197,6 +201,7 @@
   },
   "active": "0bf195c5bec55743",
   "lastOpenFiles": [
+    "project Doctor Doom.md",
     "Little Book of Algos.md",
     "pacman (arch).md",
     "rsync.md",
@@ -223,7 +228,6 @@
     "Untitled 2.md",
     "Untitled 1.md",
     "TODO.md",
-    "track.md",
     "Attachments/Pasted image 20260311035601.png",
     "Attachments/Pasted image 20260310163405.png",
     "Attachments/Pasted image 20260303152152.png",
