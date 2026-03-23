@@ -439,7 +439,6 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [x] change folder path in email
 - [x] add from address in the email.
 
-
 - [ ] some are still not renamed, just need to add seconds
 - [ ] the folder shows 404
 - [ ] attach file
