@@ -440,18 +440,17 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [x] add from address in the email.
 
 
-- [x] some are still not renamed
-are we processing it twice? not idempotency, two times are we adding the entry in database?
+- [ ] some are still not renamed, just need to add seconds
+- [ ] time which we are getting is already UTC, taking 5 hours difference
 - [ ] the folder shows 404
 - [ ] remote id is null
 - [ ] attach file
+
+https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%20(RW)
+
 
 ![[Pasted image 20260323125239.png]]
 
 
 - [ ] new classifications and prompt CRUD
 
-{"cost": {"currency": "USD", "ocr_cost": 0.03, "total_cost": 0.041825, "llm_input_cost": 0.009015, "llm_total_cost": 0.011825, "llm_output_cost": 0.00281}, "usage": {"total_tokens": 3887, "prompt_tokens": 3606, "completion_tokens": 281}, "summary": "Lorraine Smart, a 90-year-old female, was discharged from home health services on 03/17/2026 after receiving PT/OT for bilateral knee osteoarthritis and functional mobility decline. The patient demonstrated improvement with resolved symptoms and no further skilled therapy needs. Diagnoses include bilateral knee osteoarthritis, dementia, anxiety, and chronic kidney disease, among others.", "provider": "azure", "model_name": "gpt-4o", "ocr_accuracy": 99, "patient_name": "Smart, Lorraine", "document_type": "Home Health Discharge", "classification": "Home Health Discharge", "clinician_name": "Martina Bromley - PT", "encounter_type": "Home Health Discharge Summary", "key_highlights": ["Patient is a 90-year-old female discharged from home health services.", "Reason for admission: Bilateral knee osteoarthritis with functional mobility decline.", "Services provided: PT/OT for strengthening, balance, gait training, and safety awareness.", "Discharge condition: Patient improved with resolved symptoms, no further skilled services needed.", "Diagnosis includes bilateral knee osteoarthritis, dementia, anxiety, chronic kidney disease, and other comorbidities."], "date_of_service": "03/17/2026", "invocation_type": "classification", "mrn_chart_number": null, "received_date_time": "03/23/2026 01:03", "classification_accuracy": 100}
-
-
-{"cost": {"currency": "USD", "ocr_cost": 0.01, "total_cost": 0.0181825, "llm_input_cost": 0.0056725, "llm_total_cost": 0.0081825, "llm_output_cost": 0.00251}, "usage": {"total_tokens": 2520, "prompt_tokens": 2269, "completion_tokens": 251}, "summary": "A pharmacy refill request for Levothyroxin Tab 88mcg was submitted for Mary McGuire (ID: 828339) by Leomonda Johnson on 03/22/2026. The medication is not filled by Consonus Pharmacy, and the supplying pharmacy should be contacted for a refill.", "provider": "azure", "model_name": "gpt-4o", "ocr_accuracy": 94, "patient_name": "MARY MCGUIRE", "document_type": "Pharmacy Refill Request", "classification": "Pharmacy Refill Request", "clinician_name": "LEOMONDA JOHNSON", "encounter_type": "Pharmacy Refill Request", "key_highlights": ["Refill request for Levothyroxin Tab 88mcg", "Patient: Mary McGuire, ID: 828339", "Requested by: Leomonda Johnson", "Received on 03/22/2026 at 19:23", "Medication not filled by Consonus Pharmacy"], "date_of_service": "03/22/2026", "invocation_type": "classification", "mrn_chart_number": "828339", "received_date_time": "03/22/2026 19:23", "classification_accuracy": 95}
