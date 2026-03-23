@@ -436,6 +436,17 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 
 - [x] time inside the detail page was in IST
 - [x] rename pdf along with timestamp
-- [ ] attach file
 - [x] change folder path in email
 - [x] add from address in the email.
+
+
+- [ ] some are still not renamed
+- [ ] the folder shows 404
+- [ ] remote id is null
+- [ ] attach file
+
+![[Pasted image 20260323125239.png]]
+
+
+- [ ] new classifications and prompt CRUD
+- [ ] 
