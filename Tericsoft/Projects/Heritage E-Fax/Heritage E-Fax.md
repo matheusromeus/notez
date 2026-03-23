@@ -8,6 +8,8 @@ main components in the architecture
 - data pipeline
 - relational database (common)
 
+https://danieldonbavand.com/2022/03/08/what-is-a-control-and-data-plane-architecture/
+
 ## data pipeline
 
 ### function A
