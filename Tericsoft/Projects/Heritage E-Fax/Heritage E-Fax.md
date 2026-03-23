@@ -445,7 +445,6 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [ ] attach file
 - [ ] all are set to is_manual
 
-
 https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%20(RW)
 
 
