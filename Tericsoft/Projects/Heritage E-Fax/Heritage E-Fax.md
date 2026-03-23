@@ -440,7 +440,8 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [x] add from address in the email.
 
 
-- [ ] some are still not renamed
+- [x] some are still not renamed
+are we processing it twice? not idempotency, two times are we adding the entry in database?
 - [ ] the folder shows 404
 - [ ] remote id is null
 - [ ] attach file
@@ -450,3 +451,5 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 
 - [ ] new classifications and prompt CRUD
 - [ ] 
+
+{"cost": {"currency": "USD", "ocr_cost": 0.03, "total_cost": 0.041825, "llm_input_cost": 0.009015, "llm_total_cost": 0.011825, "llm_output_cost": 0.00281}, "usage": {"total_tokens": 3887, "prompt_tokens": 3606, "completion_tokens": 281}, "summary": "Lorraine Smart, a 90-year-old female, was discharged from home health services on 03/17/2026 after receiving PT/OT for bilateral knee osteoarthritis and functional mobility decline. The patient demonstrated improvement with resolved symptoms and no further skilled therapy needs. Diagnoses include bilateral knee osteoarthritis, dementia, anxiety, and chronic kidney disease, among others.", "provider": "azure", "model_name": "gpt-4o", "ocr_accuracy": 99, "patient_name": "Smart, Lorraine", "document_type": "Home Health Discharge", "classification": "Home Health Discharge", "clinician_name": "Martina Bromley - PT", "encounter_type": "Home Health Discharge Summary", "key_highlights": ["Patient is a 90-year-old female discharged from home health services.", "Reason for admission: Bilateral knee osteoarthritis with functional mobility decline.", "Services provided: PT/OT for strengthening, balance, gait training, and safety awareness.", "Discharge condition: Patient improved with resolved symptoms, no further skilled services needed.", "Diagnosis includes bilateral knee osteoarthritis, dementia, anxiety, chronic kidney disease, and other comorbidities."], "date_of_service": "03/17/2026", "invocation_type": "classification", "mrn_chart_number": null, "received_date_time": "03/23/2026 01:03", "classification_accuracy": 100}

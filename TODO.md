@@ -12,5 +12,3 @@
 - [ ] how can i contribute to the documentation of the projects that i have worked on?
 ## personal
 - [ ] call at 7:55 - bali
-
-
