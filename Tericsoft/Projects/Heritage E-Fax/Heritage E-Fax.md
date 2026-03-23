@@ -441,10 +441,10 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 
 
 - [ ] some are still not renamed, just need to add seconds
-- [ ] time which we are getting is already UTC, taking 5 hours difference
 - [ ] the folder shows 404
-- [ ] remote id is null
 - [ ] attach file
+- [ ] all are set to is_manual
+
 
 https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%20(RW)
 
@@ -454,3 +454,5 @@ https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%2
 
 - [ ] new classifications and prompt CRUD
 
+
+https://hmscare.sharepoint.com/sites/AIFax/Documents/AI%20Fax/Ridgewood%20(RW)
