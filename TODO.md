@@ -3,12 +3,12 @@
 - [ ] landing page for Reserve Now
 - [ ] new heritage changes
 - [ ] new reserve now changes
-- [ ] Phoenix Changes
+- [ ] verify Phoenix Changes
 - [ ] add BMB tickets
 - [ ] add reserve now tickets
 - [ ] make sure whatever was done on phoenix is shown on allocation
 - [ ] add Heritage Tickets
 - [ ] what is there for me to do in my OKR
-- [ ] how can i contribute to the documentation of the projects that i have worked on?
+- [ ] how can i contribute to the documentation of the projects that i have worked on? [[agile + architecture]]
 ## personal
 - [ ] call at 7:55 - bali

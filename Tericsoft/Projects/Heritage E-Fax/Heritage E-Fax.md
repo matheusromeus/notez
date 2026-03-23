@@ -441,12 +441,6 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [x] change folder path in email
 - [x] add from address in the email.
 
-- [ ] some are still not renamed, just need to add seconds
-- [ ] the folder shows 404
-- [ ] attach file
-- [ ] all are set to is_manual
-
-https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%20(RW)
 
 
 ![[Pasted image 20260323125239.png]]
@@ -455,4 +449,8 @@ https://hmscare.sharepoint.com/sites/AIFax/Shared Documents/AI%20Fax/Ridgewood%2
 - [ ] new classifications and prompt CRUD
 
 
-https://hmscare.sharepoint.com/sites/AIFax/Documents/AI%20Fax/Ridgewood%20(RW)
+92069 did not have remote id - ridgewood (there are faxes which do not have remote id)
+did the fax email have the correct folder link?
+classification_mapping has to be made more up to date - with new ones from naziya
+- [ ] attach file
+

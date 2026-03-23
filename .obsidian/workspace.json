@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2cd0538e0bb3437f",
+        "id": "302e3b5cd8400955",
         "type": "tabs",
         "children": [
           {
-            "id": "2509a877d4d77673",
+            "id": "9b28b4b6f47db1d7",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Heritage E-Fax"
             }
-          },
-          {
-            "id": "45aff89ad89b43f4",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.12.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.12.7"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -211,35 +198,35 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "45aff89ad89b43f4",
+  "active": "9b28b4b6f47db1d7",
   "lastOpenFiles": [
     "Tericsoft/Projects/ReserveNow/reserve now.md",
-    "C - an intro.md",
+    "Tericsoft/Projects/Heritage E-Fax/sharepoint_env.md",
+    "project Doctor Doom.md",
+    "Tericsoft/Projects/Heritage E-Fax/lessons from heritage.md",
+    "how to use claude code.md",
+    "Self Hosting for Next Js.md",
+    "TODO.md",
+    "routine.md",
+    "Roam.md",
+    "slow living rules.md",
+    "agile + architecture.md",
+    "c4 model.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
-    "sharepoint_env.md",
+    "C - an intro.md",
     "Tericsoft/Projects/BMB/BMB.md",
     "goals.md",
     "rsync.md",
     "scaling issues.md",
     "serverless.md",
     "Untitled.md",
-    "TODO.md",
     "Untitled 2.md",
     "Untitled 1.md",
     "Tericsoft/Projects/Phoenix/phoenix.md",
     "Tericsoft/Projects/ReserveNow/landing page.md",
     "Attachments/Pasted image 20260323125239.png",
     "geopolitics.md",
-    "c4 model.md",
-    "slow living rules.md",
-    "agile + architecture.md",
     "linux resources.md",
-    "linux security.md",
-    "stream notes.md",
-    "project Doctor Doom.md",
-    "Little Book of Algos.md",
-    "pacman (arch).md",
-    "budgeting.md",
     "Tericsoft/Projects/Phoenix",
     "Attachments/Pasted image 20260311035601.png",
     "Attachments/Pasted image 20260310163405.png",

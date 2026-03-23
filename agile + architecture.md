@@ -27,3 +27,8 @@ architcture design record
 	- **High-level Architecture**
 	- **Key Business Rules**
 - 
+
+- **Architecture Overview**
+- **API Contracts**
+- **Data Models**
+- **Key Design Decisions (ADR – Architecture Decision Records)**
