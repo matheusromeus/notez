@@ -54,3 +54,10 @@ same email id is given, for 2 different users. between users, cusoimters, busine
 
 subscription starts from the day you paid and not when the kyc got approved
 
+- [ ] no payment in onboarding
+- [ ] branding in qrcode with extra info about whose qr it is
+- [ ] customer bulk client upload
+- [ ] instead uuid, he wants the business name
+- [ ] super admin, transactions company wise / export option (how the filter is applied)
+- [ ] multiple business heads entry
+- [ ] input checkbox for whether they want GST details
