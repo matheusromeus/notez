@@ -65,9 +65,10 @@ subscription starts from the day you paid and not when the kyc got approved
 - [x] instead uuid, he wants the business name
 - [x] super admin, transactions company wise / export option (how the filter is applied)
 - [x] multiple business heads entry
-- [ ] checkbox for whether they want GST details
+- [x] checkbox for whether they want GST details
 	- [ ] ![[Pasted image 20260324073656.png]]
 	- [ ] when toggled, they can enter the gst number and the company name (this is for customer)
 
 edp does verification, entering a new client. what is the difference between them and marketing?
 
+what about other areas where customer is added or edited? should i show the gst number and business name in the column?
