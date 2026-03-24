@@ -55,3 +55,9 @@ when adding a new billing entity, they have to contact us. add a new api user an
 
 
 CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
+
+
+---
+
+genpact - b2b
+quantium - sezwop

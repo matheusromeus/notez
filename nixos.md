@@ -1,0 +1,2 @@
+I love NixOS because most operating systems slowly turn into a pile of state. You install packages, tweak settings, try random tools, remove some of them, upgrade over time and after a while you have a machine that works but not in a way that you can confidently explain from first principles. NixOS felt very different to me. I do not have to trust a pile of state. I can define a system and build it.
+
