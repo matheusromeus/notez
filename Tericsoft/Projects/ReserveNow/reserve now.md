@@ -65,8 +65,13 @@ subscription starts from the day you paid and not when the kyc got approved
 - [ ] instead uuid, he wants the business name
 - [ ] super admin, transactions company wise / export option (how the filter is applied)
 - [ ] multiple business heads entry
-- [ ] input checkbox for whether they want GST details
+- [ ] checkbox for whether they want GST details
+	- [ ] ![[Pasted image 20260324073656.png]]
+	- [ ] when toggled, they can enter the gst number and the company name (this is for customer)
 
 so option to create a customer (same popup as creating a booking), map them to a package (instead of tickets). they just want a customer database, 
 
-he has to know what transactions each company has done. so that he can pay him.
+he has to know what transactions each company has done. so that he can pay him. so we need to add a column for the company name.
+
+edp does verification, entering a new client
+

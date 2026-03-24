@@ -455,5 +455,11 @@ try adding a new model once
 
 
 file attachments
-- **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email.
-- **Batched**: Yes. When the timer drains the queue and builds one email for many items, you can collect one file per queued item (again by downloading from SharePoint or wherever the canonical file lives) and pass multiple paths to the same `attachments=` parameter.
+- **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email. 
+  
+  
+
+
+
+
+LLM classification failed: LLM call failed for azure/gpt-4o: ValueError: [LiteLLM] Azure provider is missing required credentials: ['api_key']. Ensure secret_ref in provider_credential is a JSON object with AZURE_OPENAI_API_KEY, AZURE_OPENAI_ENDPOINT, AZURE_OPENAI_DEPLOYMENT_NAME. Or set them as environment variables as fallback.
