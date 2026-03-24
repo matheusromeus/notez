@@ -56,11 +56,11 @@ subscription starts from the day you paid and not when the kyc got approved
 
 
 - [x] no payment in onboarding. after entering details, go straight to kyc verification pending page. nothing about any price or payment.
-- [ ] qrcode with extra info
-	- [ ] the unique code
-	- [ ] branding reserve now
-	- [ ] name, email
-	- [ ] booking id
+- [x] qrcode with extra info
+	- [x] the unique code
+	- [x] branding reserve now
+	- [x] name, email
+	- [x] booking id
 - [ ] customer bulk client upload (customer or business client?)
 - [x] instead uuid, he wants the business name
 - [x] super admin, transactions company wise / export option (how the filter is applied)
@@ -74,5 +74,3 @@ edp does verification, entering a new client. what is the difference between the
 what about other areas where customer is added or edited? should i show the gst number and business name in the column?
 
 need a better commission, terms and conditions page
-
-should we remove payment column from the verifications table?
