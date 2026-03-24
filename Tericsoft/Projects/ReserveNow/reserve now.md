@@ -73,5 +73,5 @@ so option to create a customer (same popup as creating a booking), map them to a
 
 he has to know what transactions each company has done. so that he can pay him. so we need to add a column for the company name.
 
-edp does verification, entering a new client
+edp does verification, entering a new client. what is the difference between them and marketing?
 

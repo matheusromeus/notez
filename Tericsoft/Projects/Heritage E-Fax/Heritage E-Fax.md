@@ -444,15 +444,10 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 
 ![[Pasted image 20260323125239.png]]
 
-- [ ] new classifications and prompt CRUD
 
-
-92069 did not have remote id - ridgewood (there are faxes which do not have remote id)
-did the fax email have the correct folder link?
-classification_mapping has to be made more up to date - with new ones from naziya
-- [ ] attach file
-try adding a new model once
-
+- [x] 92069 did not have remote id - ridgewood (there are faxes which do not have remote id)
+- [x] did the fax email have the correct folder link?
+- [x] classification_mapping has to be made more up to date - with new ones from naziya
 
 file attachments
 - **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email. 
@@ -461,5 +456,8 @@ file attachments
 
 
 
-
-LLM classification failed: LLM call failed for azure/gpt-4o: ValueError: [LiteLLM] Azure provider is missing required credentials: ['api_key']. Ensure secret_ref in provider_credential is a JSON object with AZURE_OPENAI_API_KEY, AZURE_OPENAI_ENDPOINT, AZURE_OPENAI_DEPLOYMENT_NAME. Or set them as environment variables as fallback.
+- [ ] file attachments (do it per fax)
+- [ ] user management
+	so a new users table (rbac in the longer run)
+	send email that you got onboarded
+	login, otp in the email
