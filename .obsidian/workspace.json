@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+                "file": "Tericsoft/Projects/ReserveNow/reserve now.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Heritage E-Fax"
+              "title": "reserve now"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tericsoft/Projects/ReserveNow/reserve now.md",
+                "file": "TODO.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reserve now"
+              "title": "TODO"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -213,9 +212,10 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "2bc6ed5790230b70",
+  "active": "72d0df92320c208b",
   "lastOpenFiles": [
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
+    "TODO.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "Attachments/Pasted image 20260324073656.png",
     "Tericsoft/Projects/BMB/BMB.md",
@@ -224,7 +224,6 @@
     "Tericsoft/Projects/Heritage E-Fax/lessons from heritage.md",
     "how to use claude code.md",
     "Self Hosting for Next Js.md",
-    "TODO.md",
     "routine.md",
     "Roam.md",
     "slow living rules.md",
