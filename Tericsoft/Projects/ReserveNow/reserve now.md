@@ -64,7 +64,7 @@ subscription starts from the day you paid and not when the kyc got approved
 - [ ] customer bulk client upload (customer or business client?)
 - [x] instead uuid, he wants the business name
 - [x] super admin, transactions company wise / export option (how the filter is applied)
-- [ ] multiple business heads entry
+- [x] multiple business heads entry
 - [ ] checkbox for whether they want GST details
 	- [ ] ![[Pasted image 20260324073656.png]]
 	- [ ] when toggled, they can enter the gst number and the company name (this is for customer)
