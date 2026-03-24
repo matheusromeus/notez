@@ -55,7 +55,7 @@ same email id is given, for 2 different users. between users, cusoimters, busine
 subscription starts from the day you paid and not when the kyc got approved
 
 
-- [ ] no payment in onboarding. after entering details, go straight to kyc verification pending page. nothing about any price or payment.
+- [x] no payment in onboarding. after entering details, go straight to kyc verification pending page. nothing about any price or payment.
 - [ ] qrcode with extra info
 	- [ ] the unique code
 	- [ ] branding reserve now
@@ -66,9 +66,13 @@ subscription starts from the day you paid and not when the kyc got approved
 - [x] super admin, transactions company wise / export option (how the filter is applied)
 - [x] multiple business heads entry
 - [x] checkbox for whether they want GST details
-	- [ ] ![[Pasted image 20260324073656.png]]
-	- [ ] when toggled, they can enter the gst number and the company name (this is for customer)
+	- [x] ![[Pasted image 20260324073656.png]]
+	- [x] when toggled, they can enter the gst number and the company name (this is for customer)
 
 edp does verification, entering a new client. what is the difference between them and marketing?
 
 what about other areas where customer is added or edited? should i show the gst number and business name in the column?
+
+need a better commission, terms and conditions page
+
+should we remove payment column from the verifications table?

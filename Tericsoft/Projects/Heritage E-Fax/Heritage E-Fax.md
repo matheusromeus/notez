@@ -452,6 +452,7 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 file attachments
 - **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email. 
   
+
   
 
 
