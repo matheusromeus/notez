@@ -56,9 +56,17 @@ subscription starts from the day you paid and not when the kyc got approved
 
 
 - [ ] no payment in onboarding. after entering details, go straight to kyc verification pending page. nothing about any price or payment.
-- [ ] branding in qrcode with extra info about whose qr it is
-- [ ] customer bulk client upload
+- [ ] qrcode with extra info
+	- [ ] the unique code
+	- [ ] branding reserve now
+	- [ ] name, email
+	- [ ] booking id
+- [ ] customer bulk client upload (customer or business client?)
 - [ ] instead uuid, he wants the business name
 - [ ] super admin, transactions company wise / export option (how the filter is applied)
 - [ ] multiple business heads entry
 - [ ] input checkbox for whether they want GST details
+
+so option to create a customer (same popup as creating a booking), map them to a package (instead of tickets). they just want a customer database, 
+
+he has to know what transactions each company has done. so that he can pay him.
