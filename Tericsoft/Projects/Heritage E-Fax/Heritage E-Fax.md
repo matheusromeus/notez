@@ -442,9 +442,7 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 - [x] add from address in the email.
 
 
-
 ![[Pasted image 20260323125239.png]]
-
 
 - [ ] new classifications and prompt CRUD
 
@@ -453,4 +451,9 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 did the fax email have the correct folder link?
 classification_mapping has to be made more up to date - with new ones from naziya
 - [ ] attach file
+try adding a new model once
 
+
+file attachments
+- **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email.
+- **Batched**: Yes. When the timer drains the queue and builds one email for many items, you can collect one file per queued item (again by downloading from SharePoint or wherever the canonical file lives) and pass multiple paths to the same `attachments=` parameter.

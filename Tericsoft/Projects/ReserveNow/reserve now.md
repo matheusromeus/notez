@@ -55,7 +55,7 @@ same email id is given, for 2 different users. between users, cusoimters, busine
 subscription starts from the day you paid and not when the kyc got approved
 
 
-- [ ] no payment in onboarding
+- [ ] no payment in onboarding. after entering details, go straight to kyc verification pending page. nothing about any price or payment.
 - [ ] branding in qrcode with extra info about whose qr it is
 - [ ] customer bulk client upload
 - [ ] instead uuid, he wants the business name
