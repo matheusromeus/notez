@@ -61,3 +61,9 @@ CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the
 
 genpact - b2b
 quantium - sezwop
+
+
+invoice due date should be one motnh before
+company name should be bold
+formatting - decimal points and straight line
+in filter only the current entity tenants are supposed to come
