@@ -451,14 +451,22 @@ If you tell me whether you prefer to optimize the backend first, the frontend fi
 
 file attachments
 - **Per-fax**: Yes. You’d need the fax as a file on disk (or write bytes to a temp file) at send time, then pass that path into `attachments=`. Your pipeline already has links/metadata (`fax_url`, SharePoint URLs, `workflow_id`, etc.); the missing piece is fetching or resolving the file in the function that sends the email. 
-  
 
-  
-
-
-
-- [ ] file attachments (do it per fax)
+- [x] file attachments (do it per fax)
 - [ ] user management
 	so a new users table (rbac in the longer run)
 	send email that you got onboarded
 	login, otp in the email
+
+
+superadmin
+
+user page
+
+super admin can add/delete/edit users - only email and name, phone number (optional), toggle for active/inactive
+
+superadmin also login through otp
+
+keep expiry till 30 days
+
+those users will be only able to login
