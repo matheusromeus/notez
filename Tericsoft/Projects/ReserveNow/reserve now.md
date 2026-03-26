@@ -73,3 +73,9 @@ edp does verification, entering a new client. what is the difference between the
 what about other areas where customer is added or edited? should i show the gst number and business name in the column?
 
 need a better commission, terms and conditions page
+
+- [ ] in onboarding in superadmin, needs to move to next page
+- [ ] webhook not received in dev
+- [ ] able to give the same email in the database, and it gets overriden
+	- [ ] sign up
+	- [ ] adding business user

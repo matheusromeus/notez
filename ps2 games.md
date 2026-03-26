@@ -13,3 +13,5 @@
 - [ ] nfs underground 2
 - [ ] metal gear solid 3 snake eater
 - [ ] wwe smackdown here comes the pain
+- [ ] god of war
+- [ ] gt3 a spec
