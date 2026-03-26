@@ -82,3 +82,6 @@ need a better commission, terms and conditions page
 	- [ ] editing business user
 	- [ ] onboarding a business client by admin
 		- [ ] business updating 
+
+
+if sale duration is not given, can i buy the package only during package duration?

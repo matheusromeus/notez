@@ -1,6 +1,7 @@
 ## work
 - [ ] make sure all the workers for BMB are hosted
 - [ ] verify BMB changes
+- [ ] webhook on bmb
 - [ ] landing page for Reserve Now
 - [ ] heritage changes
 - [ ] new reserve now changes
