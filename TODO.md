@@ -1,10 +1,10 @@
 ## work
 - [ ] make sure all the workers for BMB are hosted
 - [ ] verify BMB changes
-- [ ] webhook on bmb
+- [ ] webhook on bmb? for pricing
 - [ ] landing page for Reserve Now
 - [ ] heritage changes
-- [ ] new reserve now changes
+- [x] new reserve now changes
 - [ ] Phoenix Changes
 - [ ] add BMB tickets
 - [ ] add reserve now tickets
@@ -14,4 +14,3 @@
 - [ ] how can i contribute to the documentation of the projects that i have worked on? [[agile + architecture]]
 - [ ] have a call with Jaleel about Reesecure
 - [ ] setup neovim in romeus
-## personal
