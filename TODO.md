@@ -1,10 +1,8 @@
 ## work
-- [x] make sure all the workers for BMB are hosted
 - [ ] verify BMB changes
 - [ ] webhook on bmb? for pricing
 - [ ] landing page for Reserve Now
 - [ ] heritage changes
-- [x] new reserve now changes
 - [ ] Phoenix Changes
 - [ ] add BMB tickets
 - [ ] add reserve now tickets
