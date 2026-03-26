@@ -60,7 +60,7 @@ subscription starts from the day you paid and not when the kyc got approved
 	- [x] branding reserve now
 	- [x] name, email
 	- [x] booking id
-- [ ] customer bulk client upload (customer or business client?)
+- [x] customer bulk client upload (customer or business client?)
 - [x] instead uuid, he wants the business name
 - [x] super admin, transactions company wise / export option (how the filter is applied)
 - [x] multiple business heads entry
@@ -76,6 +76,9 @@ need a better commission, terms and conditions page
 
 - [ ] in onboarding in superadmin, needs to move to next page
 - [ ] webhook not received in dev
-- [ ] able to give the same email in the database, and it gets overriden
+- [x] able to give the same email in the database, and it gets overriden
 	- [ ] sign up
 	- [ ] adding business user
+	- [ ] editing business user
+	- [ ] onboarding a business client by admin
+		- [ ] business updating 

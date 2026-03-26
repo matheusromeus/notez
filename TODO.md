@@ -12,4 +12,5 @@
 - [ ] what is there for me to do in my OKR
 - [ ] how can i contribute to the documentation of the projects that i have worked on? [[agile + architecture]]
 - [ ] have a call with Jaleel about Reesecure
+- [ ] setup neovim in romeus
 ## personal
