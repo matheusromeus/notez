@@ -47,7 +47,6 @@ To Do
 	for bookings - it can not be the last stage.
 	for transactions - its only what money is involved in
 
-
 check every payment to see whether zoho invoice is working, may need change in env variables
 
 same email id is given, for 2 different users. between users, cusoimters, business_clients.

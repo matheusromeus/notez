@@ -1,7 +1,8 @@
 ## work
 - [ ] make sure all the workers for BMB are hosted
+- [ ] verify BMB changes
 - [ ] landing page for Reserve Now
-- [ ] new heritage changes
+- [ ] heritage changes
 - [ ] new reserve now changes
 - [ ] Phoenix Changes
 - [ ] add BMB tickets
