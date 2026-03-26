@@ -3,7 +3,7 @@
 - [ ] landing page for Reserve Now
 - [ ] new heritage changes
 - [ ] new reserve now changes
-- [ ] verify Phoenix Changes
+- [ ] Phoenix Changes
 - [ ] add BMB tickets
 - [ ] add reserve now tickets
 - [ ] make sure whatever was done on phoenix is shown on allocation
