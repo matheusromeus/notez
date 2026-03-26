@@ -1,5 +1,5 @@
 ## work
-- [ ] make sure all the workers for BMB are hosted
+- [x] make sure all the workers for BMB are hosted
 - [ ] verify BMB changes
 - [ ] webhook on bmb? for pricing
 - [ ] landing page for Reserve Now
