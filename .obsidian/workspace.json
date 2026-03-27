@@ -50,7 +50,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,12 +227,12 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "645d882ecf7ec0b7",
+  "active": "6b018785f2d18847",
   "lastOpenFiles": [
+    "Tericsoft/Projects/BMB/BMB.md",
     "frontend.md",
     "Attachments/Pasted image 20260327024515.png",
     "TODO.md",
-    "Tericsoft/Projects/BMB/BMB.md",
     "Tericsoft/Projects/Reesecure.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "ps2 games.md",
