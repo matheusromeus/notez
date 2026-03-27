@@ -81,11 +81,29 @@ get all the invoices accepted
 
 
 
-
-for signage and parking - igst was not taken
+if multiple groups of parking are there, then the gst handling is wrong. only on classifcaiton part.
 
 once the invoices are created, if no escalation was applied, then no issues. because none of the values are being changed. 
 BUT, if there is an escalation, the escalation was applied, and the next escalation date is now changed. also the current rate is also changed.
 Now, if we try to delete the invoice, and then try to run it again, then this will cause an issue, because the amounts and details are different too.
 
+since we are in the starting phase, they might want to do the invoice run again. so if any escalations were applied that month, that is going to cause an issue.
+
 CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
+
+
+```
+db.invoices.deleteMany({})
+
+db.invoices_escalations.deleteMany({})
+
+db.invoices_payment_history.deleteMany({})
+
+db.invoice_email_history.deleteMany({})
+
+db.invoice_approval_logs.deleteMany({})
+```
+
+
+
+
