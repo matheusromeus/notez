@@ -69,8 +69,7 @@ when adding a new billing entity, they have to contact us. add a new api user an
 - [ ] test sendtoclient cron from our emails
 - [x] how did the cam invoice get accepted?
 
-multiple address option in the entity
-and then when selecting the property, automatically add the address or give multiple address and select the one.
+- [x] multiple address option in the entity and then when selecting the property, automatically add the address or give multiple address and select the one.
 
 - [x] update the gst logic to the following
 	if sez Zone = yes
