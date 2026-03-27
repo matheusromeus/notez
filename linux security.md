@@ -20,3 +20,7 @@ visudo
 chmod 7 7 7
 owner, group, others
 u - owner
+
+	superuser will always have UID as 0 in POSIX systems
+
+/etc/sudoers
