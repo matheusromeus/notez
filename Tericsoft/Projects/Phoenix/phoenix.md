@@ -65,10 +65,9 @@ when adding a new billing entity, they have to contact us. add a new api user an
 - [x] parking slots (in the invoice)
 - [x] date format in 2026-03-25 change to indian format
 - [x] double check the address taking 50 characters , remove the error
-- [ ] the invoice due date is always 10 days from the date of issue of the invoice. So the day that the invoice was sent to the client.
-- [ ] for manual invoices also, indidvidual properties
+- [x] the invoice due date is always 10 days from the date of issue of the invoice. So the day that the invoice was sent to the client.
 - [ ] test sendtoclient cron from our emails
-- [ ] how did the cam invoice get accepted?
+- [x] how did the cam invoice get accepted?
 
 multiple address option in the entity
 and then when selecting the property, automatically add the address or give multiple address and select the one.
@@ -80,3 +79,7 @@ and then when selecting the property, automatically add the address or give mult
 		only cgst and sgst
 
 CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
+
+
+tablespace invoices
+and all invoices get it accepted
