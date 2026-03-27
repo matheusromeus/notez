@@ -79,4 +79,13 @@ get all the invoices accepted
 		only cgst and sgst
 - [ ] how did the cam invoice get accepted?
 
+
+
+
+for signage and parking - igst was not taken
+
+once the invoices are created, if no escalation was applied, then no issues. because none of the values are being changed. 
+BUT, if there is an escalation, the escalation was applied, and the next escalation date is now changed. also the current rate is also changed.
+Now, if we try to delete the invoice, and then try to run it again, then this will cause an issue, because the amounts and details are different too.
+
 CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.

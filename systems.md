@@ -24,3 +24,4 @@ package managers
 
 then alpine linux has apk which support .apk packages (not android apk)
 
+-k -c 100 -n 1000 http://localhost:3000/ -> apache bench to benchmark web servers

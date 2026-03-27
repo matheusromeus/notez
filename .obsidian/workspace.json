@@ -92,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -270,7 +270,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "b8c011b92d43687e",
+  "active": "6b018785f2d18847",
   "lastOpenFiles": [
     "systems.md",
     "apt package manager.md",
