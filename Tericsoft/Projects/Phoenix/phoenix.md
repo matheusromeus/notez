@@ -54,34 +54,29 @@ and then by 10th the payment is made
 when adding a new billing entity, they have to contact us. add a new api user and then add the GST number on code also
 
 
-CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
 
 
 ---
 
-genpact - b2b
-quantium - sezwop
-
-
-- [ ] invoice due date should be one motnh before
+- [ ] bank details - bank details parking invoice (check in prod)
 - [x] company name should be bold
 - [x] formatting - decimal points and straight line
 - [x] in filter only the current entity tenants are supposed to come
 - [x] parking slots (in the invoice)
-- [ ] bank details - bank details parking invoice (check in prod)
 - [x] date format in 2026-03-25 change to indian format
+- [x] double check the address taking 50 characters , remove the error
+- [ ] the invoice due date is always 10 days from the date of issue of the invoice. So the day that the invoice was sent to the client.
 - [ ] for manual invoices also, indidvidual properties
-- [ ] double check the address taking 50 characters , remove the error
-- [ ] how did the cam invoice get accepted?
-- [ ] what does client secret do?
 - [ ] test sendtoclient cron from our emails
+- [ ] how did the cam invoice get accepted?
 
 multiple address option in the entity
 and then when selecting the property, automatically add the address or give multiple address and select the one.
 
+- [x] update the gst logic to the following
+	if sez Zone = yes
+		only take igst
+	if sez Zone = no
+		only cgst and sgst
 
-if sez Zone = yes
-	only take igst
-	
-if sez Zone = no
-	only cgst and sgst
+CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
