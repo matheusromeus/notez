@@ -63,18 +63,18 @@ genpact - b2b
 quantium - sezwop
 
 
-invoice due date should be one motnh before
-company name should be bold
-formatting - decimal points and straight line
-in filter only the current entity tenants are supposed to come
-parking slots (in the invoice)
-bank details - bank details parking invoice
-date format in 2026-03-25 change to indian format
-test sendtoclient cron from our emails
-for manual invoices also, indidvidual properties
-double check the address taking 50 characters , remove the error
-how did the cam invoice get accepted?
-what does client secret do?
+- [ ] invoice due date should be one motnh before
+- [x] company name should be bold
+- [x] formatting - decimal points and straight line
+- [x] in filter only the current entity tenants are supposed to come
+- [x] parking slots (in the invoice)
+- [ ] bank details - bank details parking invoice (check in prod)
+- [x] date format in 2026-03-25 change to indian format
+- [ ] for manual invoices also, indidvidual properties
+- [ ] double check the address taking 50 characters , remove the error
+- [ ] how did the cam invoice get accepted?
+- [ ] what does client secret do?
+- [ ] test sendtoclient cron from our emails
 
 multiple address option in the entity
 and then when selecting the property, automatically add the address or give multiple address and select the one.

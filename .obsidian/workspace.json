@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Tericsoft/Projects/Phoenix/phoenix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "phoenix"
             }
           },
           {
@@ -229,10 +229,10 @@
   },
   "active": "6b018785f2d18847",
   "lastOpenFiles": [
+    "TODO.md",
     "Tericsoft/Projects/BMB/BMB.md",
     "frontend.md",
     "Attachments/Pasted image 20260327024515.png",
-    "TODO.md",
     "Tericsoft/Projects/Reesecure.md",
     "Tericsoft/Projects/ReserveNow/reserve now.md",
     "ps2 games.md",
