@@ -89,6 +89,8 @@ Now, if we try to delete the invoice, and then try to run it again, then this wi
 
 since we are in the starting phase, they might want to do the invoice run again. so if any escalations were applied that month, that is going to cause an issue.
 
+if the invoices failed due to some reason, that invoice is gone too. they cant rerun it.
+
 CRON JOB, which takes all the approved invoices, and bulk sends it to GST on the 1st.
 
 
@@ -109,3 +111,22 @@ db.invoice_approval_logs.deleteMany({})
 
 the rates we have in billing preferences are only for show. what the end user sees. we will have a append-only list of the history of changes/escalations and that's what we should ideally be using to build the invoices.
 
+
+billing period is always the next month of when the invoice was generated. if the invoice was generated on jan (1-31), then the system automatically assumes the billing period to be feb (1 - 28, 29) of that calendar year.
+
+if a tenant is inactive, then skip it. 
+
+we are getting all the tenants and enriching them with their billing components. (these are two tables that's why)
+
+**im registering an invoice on jan 18th 2026.**
+contract_start_date = july 1st 2025
+contract_rate = 10 per sqft
+current_rate = 15 per sqft
+isSezZone = true ? igst : cgst + sgst
+escalation_percentage = 5%
+escalation_start_date = can be rcd, lcd or custom date
+escalation_frequency = every 'n' years of when escalation started from
+
+**other factors**
+is_selected -> if not omit it (checkmark)
+area_occupied
