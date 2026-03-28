@@ -107,3 +107,5 @@ db.invoice_approval_logs.deleteMany({})
 
 
 
+the rates we have in billing preferences are only for show. what the end user sees. we will have a append-only list of the history of changes/escalations and that's what we should ideally be using to build the invoices.
+
