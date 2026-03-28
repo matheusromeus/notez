@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -284,7 +284,7 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "78645d37259bbd07",
+  "active": "6b018785f2d18847",
   "lastOpenFiles": [
     "shell.md",
     "systems.md",

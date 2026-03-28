@@ -22,3 +22,5 @@ append `&` to make it run in the background
 && -> make sure that rhs is executed only if lhs ran successfully
 || -> make sure that right side command is executed only if the left side command fails
 
+echo $? - get the exit code of last run command
+
