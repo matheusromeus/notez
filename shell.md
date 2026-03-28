@@ -24,3 +24,19 @@ append `&` to make it run in the background
 
 echo $? - get the exit code of last run command
 
+
+use export MY_VAR = 'kevin', to create and set an env
+`unset` to remove
+
+`alias <alias name>='<command>'`
+
+```
+alias ciaclean='git branch --merged origin/main | grep -vE "^\s*(\*|main|develop)" | xargs -n 1 git branch -d'
+```
+
+---
+
+#!/bin/bash - bash interpreter
+#!/usr/bin/python - python interpreter
+
+in the start of the script, tells us what interpreter will execute this.

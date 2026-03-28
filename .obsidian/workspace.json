@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -284,11 +284,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "6b018785f2d18847",
+  "active": "78645d37259bbd07",
   "lastOpenFiles": [
+    "Tericsoft/Projects/Phoenix/phoenix.md",
     "shell.md",
     "systems.md",
-    "Tericsoft/Projects/Phoenix/phoenix.md",
     "apt package manager.md",
     "linux security.md",
     "TODO.md",
