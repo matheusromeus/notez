@@ -1,0 +1,15 @@
+
+- brew update
+- brew upgrade
+- brew doctor
+- brew search "name"
+- brew install "name"
+- brew leaves
+- brew cleanup
+- brew list
+- brew list --cask
+- brew pin "name"
+- brew outdated
+- brew tap
+- brew tap "repo"
+- brew config
