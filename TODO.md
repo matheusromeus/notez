@@ -8,3 +8,8 @@
 - [ ] add Heritage Tickets
 - [ ] what is there for me to do in my OKR
 - [ ] how can i contribute to the documentation of the projects that i have worked on? [[agile + architecture]]
+
+
+- [ ] domain change in heritage dev
+- [ ] trigger and user onboarding reesecure
+- [ ] phoenix cron job
