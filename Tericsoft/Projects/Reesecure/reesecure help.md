@@ -15,3 +15,7 @@ how do i know what are the valid input data?
 - random id aoi location
 - duplicate aoi locations not allowed (country, district county combination)
 - refer excel sheet to add the validations
+
+
+- [ ] trigger configurations
+- [ ] user onboarding
