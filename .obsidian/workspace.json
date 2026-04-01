@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Tericsoft/Projects/Reesecure/reesecure help.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "reesecure help"
             }
           }
         ]
@@ -200,12 +200,12 @@
   },
   "active": "df9e533b42928aa6",
   "lastOpenFiles": [
-    "Tericsoft/Projects/Reesecure/reesecure help.md",
     "Tericsoft/Projects/Reesecure/Reesecure.md",
+    "TODO.md",
+    "Tericsoft/Projects/Reesecure/reesecure help.md",
     "Tericsoft/Projects/Heritage E-Fax/Heritage E-Fax.md",
     "brew essentials.md",
     "Tericsoft/Projects/Reesecure",
-    "TODO.md",
     "re.md",
     "python.md",
     "Tericsoft/Projects/Phoenix/phoenix.md",
