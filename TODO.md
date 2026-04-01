@@ -1,5 +1,6 @@
 ## work
 - [ ] verify BMB changes
+- [ ] add migrations in Heritage
 - [ ] webhook on bmb? for pricing
 - [ ] landing page for Reserve Now
 - [ ] add BMB tickets
