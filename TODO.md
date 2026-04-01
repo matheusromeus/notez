@@ -4,6 +4,7 @@
 - [ ] webhook on bmb? for pricing
 - [ ] landing page for Reserve Now
 - [ ] add BMB tickets
+- [ ] add phoenix cron job 6 hours
 - [ ] add reserve now tickets
 - [ ] make sure whatever was done on phoenix is shown on allocation
 - [ ] add Heritage Tickets
