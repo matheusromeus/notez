@@ -12,4 +12,6 @@ how do i know what are the valid input data?
 }
 ```
 
-should it be all the states? should it be us-california or US-LA
+- random id aoi location
+- duplicate aoi locations not allowed (country, district county combination)
+- refer excel sheet to add the validations
