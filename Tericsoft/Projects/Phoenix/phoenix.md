@@ -130,3 +130,7 @@ escalation_frequency = every 'n' years of when escalation started from
 **other factors**
 is_selected -> if not omit it (checkmark)
 area_occupied
+
+
+---
+build a test case suite and a spec.md file

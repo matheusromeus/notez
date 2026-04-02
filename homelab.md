@@ -14,6 +14,10 @@ immich
 
 open sense router
 
+network switch
+
+ups with surge protection
+
 ### stats
 uptime-kuma
 what can i use grafana for?
