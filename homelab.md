@@ -12,6 +12,8 @@ create your own personal software
 miniflux
 immich
 
+open sense router
+
 ### stats
 uptime-kuma
 what can i use grafana for?

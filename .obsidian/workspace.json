@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "roles.md",
+                "file": "homelab.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "roles"
+              "title": "homelab"
             }
           }
         ],
@@ -215,8 +215,8 @@
   },
   "active": "80d95a527559e128",
   "lastOpenFiles": [
-    "Attachments/Pasted image 20260402155740.png",
     "roles.md",
+    "Attachments/Pasted image 20260402155740.png",
     "Tericsoft/Projects/Reesecure/reesecure todo.md",
     "Tericsoft/Projects/ReserveNow/landing page.md",
     "TODO.md",
@@ -254,7 +254,6 @@
     "Attachments/IMG_3704.png",
     "Tericsoft/Projects/ReserveNow",
     "Attachments/event capturing.m4a",
-    "Attachments/IMG_2429.png",
     "Streaming",
     "Apple Notes/New Folder",
     "Tericsoft/Projects/BMB",
