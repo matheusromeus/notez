@@ -1,5 +1,4 @@
 
-
 - [ ] user onboarding
 - [ ] add user validations is left (check excel sheet)
 - [ ] for counties/districts - make it searchable or make it state and the district (for USA its just chicago right now)
@@ -20,8 +19,7 @@
 	- [ ] for a country, and for a state -> trigger
 	- [ ] there is no way to get details of the user after clickign on magic link (what role did he select, what is his name)
 		- [ ] what is the token even doing? token is hashed and then the hash is stored in the db, fk to users.id (so we need an endpoint to give the token and get the details) also how do we know if he's the us version or the indian version? CAN SELECT CROSS IN THE ADD USER FORM
-	- [x] duplicate validations have to be added from the backend (check how the error message is being sent)
-- [ ] Agricultural Lending Focus: cant see on user onbaording first role, india
+- [ ] there is no active/inactive toggle option for triggers
 
 
 how are we selecting whether the us version or the indian version of the user add has to be shown?
