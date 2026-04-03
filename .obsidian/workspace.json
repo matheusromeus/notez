@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tericsoft/Projects/Reesecure/reesecure todo.md",
+                "file": "rendering.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "reesecure todo"
+              "title": "rendering"
+            }
+          },
+          {
+            "id": "2f9646ac14078b85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TODO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "TODO"
             }
           },
           {
@@ -50,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -227,13 +241,15 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "a6c866b124b77daa",
+  "active": "2f9646ac14078b85",
   "lastOpenFiles": [
+    "Untitled 3.md",
     "rendering.md",
+    "Tericsoft/Projects/Reesecure/reesecure todo.md",
     "homelab.md",
+    "Tericsoft/Projects/Phoenix/phoenix.md",
     "roles.md",
     "Attachments/Pasted image 20260402155740.png",
-    "Tericsoft/Projects/Reesecure/reesecure todo.md",
     "Tericsoft/Projects/ReserveNow/landing page.md",
     "TODO.md",
     "git - the advanced.md",
@@ -243,7 +259,6 @@
     "Tericsoft/Projects/Reesecure",
     "re.md",
     "python.md",
-    "Tericsoft/Projects/Phoenix/phoenix.md",
     "shell.md",
     "systems.md",
     "apt package manager.md",
@@ -258,7 +273,6 @@
     "nixos.md",
     "Attachments/Pasted image 20260324073656.png",
     "project Doctor Doom.md",
-    "how to use claude code.md",
     "Attachments/Pasted image 20260323125239.png",
     "Tericsoft/Projects/Phoenix",
     "Attachments/Pasted image 20260311035601.png",
