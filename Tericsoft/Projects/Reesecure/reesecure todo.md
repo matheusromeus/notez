@@ -46,4 +46,4 @@ x hrs - resolve bugs
 
 
 
-select crop type from crop config, and populate growth phases from there
+is fpo organisations the organistations?
