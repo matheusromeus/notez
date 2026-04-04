@@ -14,6 +14,9 @@
 	- [ ] there is no way to get details of the user after clickign on magic link (what role did he select, what is his name)
 		- [ ] what is the token even doing? token is hashed and then the hash is stored in the db, fk to users.id (so we need an endpoint to give the token and get the details) also how do we know if he's the us version or the indian version? CAN SELECT CROSS IN THE ADD USER FORM
 - [ ] there is no active/inactive toggle option for triggers
+- [ ] what all are the editable fields in edit request? no UI screens
+- [ ] how should the request ID look like for requests?
+- [ ] search may not be working on request api
 
 
 what is different between the indian and us version in user onboarding?
@@ -66,4 +69,5 @@ trigger config tickets are added, but not like how we think.
 3hrs - trigger config UI screens
 2hrs - integrating apis for trigger config and cleaning up branches
 3hrs - s2 rnd
+3hrs - Integrating Request APIs for viewing and UI screens for View Request
 x hrs - resolve bugs
