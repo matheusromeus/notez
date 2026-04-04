@@ -27,34 +27,6 @@ what is different between the indian and us version in user onboarding?
 http://localhost:5173/complete-profile?token=E0iA1Vy2ldNB87DukByiZgF70x_axW5gi3nwzt94dx8
 
 
-- Regulatory complicance status (dropdown)
-	- compliant
-	- under review 
-	- conditional approval
-- Authorized Compliance Officer Name (text input box)
-- Compliance Officer Email Address (text input box)
-- Compliance Officer Mobile Number (mobile number input)
-- Credit Rating Agency (dropdown)
-	- CRISIL
-	- ICRA
-	- CARE
-	- India Ratings
-	- Brickwork
-- Credit Rating Grade (dropdown)
-	- AAA
-	- AA
-	- A
-	- BBB
-	- BB
-	- Unrated
-- Total loan portfolio size (dropdown)
-	- < ₹50 Cr
-	- ₹50–200 Cr
-	- ₹200–1000 Cr
-	- > ₹1000 Cr
-	- Number of active borrowers (number input box)
-
-
 [[roles]]
 
 
@@ -71,3 +43,7 @@ trigger config tickets are added, but not like how we think.
 3hrs - s2 rnd
 3hrs - Integrating Request APIs for viewing and UI screens for View Request
 x hrs - resolve bugs
+
+
+
+select crop type from crop config, and populate growth phases from there
