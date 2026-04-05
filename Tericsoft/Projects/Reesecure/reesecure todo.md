@@ -23,9 +23,7 @@ what is different between the indian and us version in user onboarding?
 - for each country
 	- for each role
 
-
 http://localhost:5173/complete-profile?token=E0iA1Vy2ldNB87DukByiZgF70x_axW5gi3nwzt94dx8
-
 
 [[roles]]
 
@@ -43,7 +41,6 @@ trigger config tickets are added, but not like how we think.
 3hrs - s2 rnd
 3hrs - Integrating Request APIs for viewing and UI screens for View Request
 x hrs - resolve bugs
-
 
 
 is fpo organisations the organistations?

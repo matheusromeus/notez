@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TODO.md",
+                "file": "Tericsoft/Projects/Reesecure/reesecure todo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TODO"
+              "title": "reesecure todo"
             }
           },
           {
@@ -256,9 +256,9 @@
   },
   "active": "df9e533b42928aa6",
   "lastOpenFiles": [
+    "TODO.md",
     "Untitled.md",
     "Untitled 1.md",
-    "TODO.md",
     "Tericsoft/Projects/Reesecure/reesecure todo.md",
     "Tericsoft/Projects/Reesecure/Reesecure.md",
     "roles.md",

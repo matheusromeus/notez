@@ -5,6 +5,7 @@
 - [ ] add reserve now tickets
 - [ ] add BMB tickets
 - [ ] add reserve now tickets
+- [ ] look into what haleem said
 - [ ] make sure whatever was done on phoenix is shown on allocation
 - [ ] add Heritage Tickets
 - [ ] what is there for me to do in my OKR
