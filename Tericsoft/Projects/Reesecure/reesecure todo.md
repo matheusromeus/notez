@@ -44,3 +44,16 @@ x hrs - resolve bugs
 
 
 is fpo organisations the organistations?
+
+
+in the /management/request/add form, in the section historical simulation and backtest, if one of the checkbox is selected, then the run simulation has to b enabled.
+curl --location --request GET '[https://archive-api.open-meteo.com/v1/archive?latitude=52.52&longitude=13.41&start_date=2010-01-01&…](https://archive-api.open-meteo.com/v1/archive?latitude=52.52&longitude=13.41&start_date=2010-01-01&end_date=2019-12-31&hourly=temperature_2m%2Crelative_humidity_2m%2Capparent_temperature%2Crain%27 "https://archive-api.open-meteo.com/v1/archive?latitude=52.52&longitude=13.41&start_date=2010-01-01&end_date=2019-12-31&hourly=temperature_2m%2crelative_humidity_2m%2capparent_temperature%2crain%27") \  
+--header 'accept: application/json' \  
+--header 'Content-Type: application/json' \  
+--header 'Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI1MTcxM2I2Yy1iZTVjLTQ0ZjMtOWM2OS0xNTZlZjljZWMyMDkiLCJleHAiOjE3NzUyOTEyNTgsInR5cGUiOiJhY2Nlc3MifQ.d2p80_a6ixOjKaEfJmdbx4XKGF6UK6lU6Pj2QTVKEWc' \  
+--data {  
+    "latitude": "38.6275",  
+    "longitude": "-92.5666",  
+    "start_date": "2020-01-01",  
+    "end_date": "2026-01-02"
+}
