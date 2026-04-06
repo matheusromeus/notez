@@ -49,3 +49,8 @@ is fpo organisations the organistations?
 ---
 
 right now we only need a single lat long point. 
+
+
+map - get the latitude and longitude (simple)
+historical payout analysis instead of trgiger dependencies
+no key insights
