@@ -48,18 +48,23 @@ is fpo organisations the organistations?
 
 ---
 
-right now we only need a single lat long point. 
+Available crop_types: ['wheat', 'barley', 'maize', 'rice', 'soybean', 'cotton', 'potato', 'sunflower', 'canola', 'sugar_beet', 'groundnut', 'grape', 'tomato', 'citrus', 'dry_bean', 'pea', 'strawberry', 'coffee', 'banana', 'olive'] - in the entire app
+
+portfolio_value is not needed.
+
+use the json file to get the growth phases from 
+
+configure trigger should be above. 
 
 
-map - get the latitude and longitude (simple)
-historical payout analysis instead of trgiger dependencies
-no key insights
+trigger name is trgger id
+
+trigger hases are bbch stage
+
+trigger_type is only one
+
+payout along with each trigger. 
 
 
-underwriter list, map.
-
-
-org name - fpo
-location - cluster name
-NBFC / Requester - hardcoded to nbfc request
-historical payout api - tbd
+v1/triggger
+backetest and monte carlo
