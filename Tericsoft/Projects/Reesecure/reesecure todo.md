@@ -54,3 +54,12 @@ right now we only need a single lat long point.
 map - get the latitude and longitude (simple)
 historical payout analysis instead of trgiger dependencies
 no key insights
+
+
+underwriter list, map.
+
+
+org name - fpo
+location - cluster name
+NBFC / Requester - hardcoded to nbfc request
+historical payout api - tbd
