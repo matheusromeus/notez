@@ -41,5 +41,9 @@ trigger config tickets are added, but not like how we think.
 3hrs - Integrating Request APIs for viewing and UI screens for View Request
 x hrs - resolve bugs
 
+correlation matrix
+adding layer
+filter for policies
+
 market place new sidebar tab
 
