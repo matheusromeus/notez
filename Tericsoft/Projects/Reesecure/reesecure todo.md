@@ -45,5 +45,13 @@ correlation matrix
 adding layer
 filter for policies
 
-market place new sidebar tab
+bubble chart
+simulation ID
+- [x] Evidence pack logs
+PDF
 
+new tab based UI in underwriter requests
+
+
+active now - remove
+logic - remove
