@@ -36,17 +36,17 @@ trigger config tickets are added, but not like how we think.
 x hrs - resolve bugs
 2 hrs - Evidence Pack Logs
 2 hrs - PDF - export pdf from view request.
-correlation matrix
-adding layer
-request flow change
+2 hr - bubble chart 
+1hr - correlation matrix
+2hr - adding layer
+4hr - request flow change
+wallet get api
 user onboarding screens?
-
 add request then call the auto suggest
 when creating a policy - send status as pending.
 policy id for all simulations
 
 monitoring or under review popup.
-
 
 
 
