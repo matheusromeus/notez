@@ -17,7 +17,7 @@ architecture represents the "significant decisions" and the cost of change is ve
 
 how can i prove my architecture with concrete experiments?
 
-architcture design record
+ADR
 
 - product level docs
 	- **Product Vision**

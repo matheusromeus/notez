@@ -33,25 +33,32 @@ http://localhost:5173/complete-profile?token=E0iA1Vy2ldNB87DukByiZgF70x_axW5gi3n
 - [ ] add request
 - [x] aoi locations
 
-### tickets today
+### tickets
 trigger config tickets are added, but not like how we think.
 3hrs - trigger config UI screens
 2hrs - integrating apis for trigger config and cleaning up branches
 3hrs - s2 rnd
 3hrs - Integrating Request APIs for viewing and UI screens for View Request
 x hrs - resolve bugs
-
+2 hrs - Evidence Pack Logs
+2 hrs - PDF - export pdf from view request.
 correlation matrix
 adding layer
-filter for policies
+request flow change
+user onboarding screens?
 
-bubble chart
-simulation ID
-- [x] Evidence pack logs
-PDF
+add request then call the auto suggest
+when creating a policy - send status as pending.
+policy id for all simulations
+
+
+
+
+
+
 
 new tab based UI in underwriter requests
+	filter for policies
 
 
-active now - remove
-logic - remove
+monitoring or under review popup.
