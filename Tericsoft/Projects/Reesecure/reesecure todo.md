@@ -27,12 +27,6 @@ http://localhost:5173/complete-profile?token=E0iA1Vy2ldNB87DukByiZgF70x_axW5gi3n
 
 [[roles]]
 
-- [x] trigger 
-- [x] crop config
-- [ ] user onboarding
-- [ ] add request
-- [x] aoi locations
-
 ### tickets
 trigger config tickets are added, but not like how we think.
 3hrs - trigger config UI screens
@@ -52,7 +46,6 @@ when creating a policy - send status as pending.
 policy id for all simulations
 
 monitoring or under review popup.
-
 
 
 
