@@ -12,7 +12,8 @@ tericsoft dependencies?
 bali planning put it offline
 
 reesecure
-- add wallet 
+- add wallet
+- lender has to be redirected to request list page
 
 bookmyband
 - [ ] bmb logo needs to be bigger
@@ -24,6 +25,7 @@ bookmyband
 - [ ] before the band accepts a connection show a confirmation modal
 - [ ] razorpay - failed to create razorpay order, authentication failed
 - [ ] not able to see the enquiry
+- [ ] zoho
 
 - [x] admin wants to change a user's credits (search and update)
 
@@ -31,7 +33,6 @@ bookmyband
 clubs don't have public enquiry. only leads (connections)
 
 
-zoho
 
 
 wherever you are adding phone number, send otp that's how you can know whether its a valid one
