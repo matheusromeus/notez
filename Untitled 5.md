@@ -1,6 +1,5 @@
 
 
-- take printout of all documents
 
 tericsoft dependencies?
 - bookmyband
@@ -22,9 +21,9 @@ bookmyband
 - [x] give maximum limit for band members (20)
 - [x] in the preview option for promotions, we need a photo crop and which part of photo we should show move photo adjust
 - [x] before the band accepts a connection show a confirmation modal
-- [ ] razorpay - failed to create razorpay order, authentication failed
+- [x] razorpay - failed to create razorpay order, authentication failed
 - [ ] not able to see the enquiry
-- [ ] zoho
+- [x] zoho
 
 - [x] admin wants to change a user's credits (search and update)
 
