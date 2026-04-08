@@ -11,18 +11,19 @@ tericsoft dependencies?
 
 bali planning put it offline
 
+reesecure
+- add wallet 
 
+bookmyband
+- [ ] bmb logo needs to be bigger
+- [ ] color scheme buttons changing
+- [ ] 
 
-
-5e322c31e8a78c47.js:5 Uncaught TypeError: Cannot read properties of null (reading 'slice')
-    at 5e322c31e8a78c47.js:5:17032
-    at Array.map
-
-admin wants to change a user's credits (search and update)
+- [x] admin wants to change a user's credits (search and update)
 
 not able to see the lead. 
 
-explicitly named ENquiry (the public one)
+clubs don't have public enquiry. only leads (connections)
 
 razorpay 
 
