@@ -15,15 +15,6 @@ reesecure
 - [x] lender has to be redirected to request list page
 
 bookmyband
-- [x] bmb logo needs to be bigger
-- [x] color scheme buttons changing
-- [ ] is the onboarding still slow?
-- [x] give maximum limit for band members (20)
-- [x] in the preview option for promotions, we need a photo crop and which part of photo we should show move photo adjust
-- [x] before the band accepts a connection show a confirmation modal
-- [x] razorpay - failed to create razorpay order, authentication failed
-- [x] zoho
-- [x] admin wants to change a user's credits (search and update)
 
 
 clubs don't have public enquiry. only leads (connections)
@@ -39,10 +30,14 @@ reserve now
 - no need to show the sale duration
 
 List of changes
--  BMB Logo has been made bigger on the login screen, onboarding screens and sidebar of the user portal
+- BMB Logo has been made bigger on the login screen, onboarding screens and sidebar of the user portal
 - onboarding galler uploads are now deferred
 - move and adjust photo for preview component in promotions tab
 - Before a band accepts a connection, a confirmation modal is given so that user knows how many credits are being cut
 - razorpay keys have been changed. 
 - now, admin can change any user's total credits
 - color scheme of the browser is reversing the colors of the button
+
+
+
+verify otp screen logo has to be increased
